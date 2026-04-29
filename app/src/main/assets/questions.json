@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "m_1",
+    "type": "MCQ_SINGLE",
+    "question": "Na účtu Zůstatková cena prodaného DHM a DNM (541) se účtuje v případě prodeje majetku. Částka se rovná:",
+    "options": [
+      "rozdílu mezi pořizovací cenou a odpisy",
+      "rozdílu mezi pořizovací cenou a oprávkami",
+      "rozdílu mezi prodejní cenou a oprávkami",
+      "prodejní ceně"
+    ],
+    "correctOptions": [
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_2",
+    "type": "ENTRY_MD_D",
+    "question": "Osoba samostatně výdělečně činná (podnikatel) vložila do svého podnikání vlastní osobní automobil v ocenění soudního znalce – vnitřní účetní doklad. Zaúčtujte: Zařazení osobního automobilu do užívání – protokol o uvedení do užívání.",
+    "md": "022",
+    "d": "042",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_3",
+    "type": "MCQ_MULTI",
+    "question": "Co bude v uvedených příkladech výnosem?",
+    "options": [
+      "přijatý úrok",
+      "úhrada faktury od odběratele za provedené služby",
+      "splátka úvěru",
+      "vydaná faktura odběrateli za prodané výrobky"
+    ],
+    "correctOptions": [
+      0,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_4",
+    "type": "ENTRY_MD_D",
+    "question": "Zúčtování poskytnuté zálohy zaměstnanci při vyúčtování pracovní cesty se zaúčtuje (pozn. záloha byla nižší než skutečné výdaje):",
+    "md": "512",
+    "d": "335",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_5",
+    "type": "MCQ_MULTI",
+    "question": "Účet Změna stavu výrobků může ke dni účetní uzávěrky 31.12. vykazovat",
+    "options": [
+      "kladný konečný obrat",
+      "nulový konečný obrat",
+      "vždy pouze kladný konečný obrat",
+      "vždy pouze záporný konečný obrat",
+      "záporný konečný obrat"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      4
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_8",
+    "type": "MCQ_SINGLE",
+    "question": "Do nepřímých daní patří:",
+    "options": [
+      "DPH a spotřební daň",
+      "silniční daň a daň z nemovitých věcí",
+      "DPH a daň z příjmů",
+      "daň z obratu"
+    ],
+    "correctOptions": [
+      0
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_9",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Nákup kolku a jeho vylepení na žádost podávanou na Obchodní soud ČR – VPD.",
+    "md": "538",
+    "d": "211",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_10",
+    "type": "ENTRY_MD_D",
+    "question": "Vystavená faktura zahraničnímu odběrateli za poskytnuté služby v hodnotě 1 000 € (27,- Kč) FAV:",
+    "md": "311",
+    "d": "602",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_11",
+    "type": "MCQ_MULTI",
+    "question": "Přijatá úhrada od zahraničního odběratele – VBÚ.",
+    "options": [
+      "Přijatá úhrada v hodnotě 1 000 € ( 26,50 Kč): 221 / 311",
+      "Kurzový rozdíl při vzestupu kurzu (revalvaci): 563 / 311"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_12",
+    "type": "ENTRY_MD_D",
+    "question": "Přijatá faktura od zahraničního dodavatele za poskytnuté služby v hodnotě 1 000€ (27 kč) FAP:",
+    "md": "518",
+    "d": "321",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_13",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka pořizuje mobilní filtrační jednotku k filtraci průmyslově znečištěného vzduchu. Zároveň čerpá dotaci z Ministerstva pro místní rozvoj na tuto investiční akci. Zaúčtujte:Příjem dotace na bankovní účet (výpis z účtu)",
+    "md": "221",
+    "d": "347",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_14",
+    "type": "MCQ_MULTI",
+    "question": "Příchovky zvířat:",
+    "options": [
+      "se účtují 584/124",
+      "zachycují nově narozená mláďata",
+      "zachycují přírůstky hmotnosti u zvířat",
+      "se účtují 124/584"
+    ],
+    "correctOptions": [
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_15",
+    "type": "MCQ_SINGLE",
+    "question": "Užití dotace na pořízení dlouhodobého hmotného majetku se účtuje:",
+    "options": [
+      "na vrub finančních nákladů",
+      "ve prospěch účtové třídy 0 - Dlouhodobý majetek",
+      "ve prospěch provozních výnosů",
+      "ve prospěch účtové třídy 1 – Zásoby"
+    ],
+    "correctOptions": [
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_16",
+    "type": "ENTRY_MD_D",
+    "question": "Vystavená faktura odběrateli za prodané zboží. Zaúčtujte DPH k vystavené faktuře.",
+    "md": "311",
+    "d": "343",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_17",
+    "type": "MCQ_SINGLE",
+    "question": "Reklamační nárok sepsaný účetní jednotkou při zjištění nekvalitního materiálu představuje",
+    "options": [
+      "závazek vůči odběrateli",
+      "pohledávku za dodavatelem",
+      "pohledávku za odběratelem",
+      "závazek vůči dodavateli"
+    ],
+    "correctOptions": [
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_18",
+    "type": "ENTRY_MD_D",
+    "question": "Jakým účtovacím předpisem zaúčtujete předpis náhrady manka skladníkovi k úhradě",
+    "md": "335",
+    "d": "648",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_19",
+    "type": "ENTRY_MD_D",
+    "question": "Ke konci účetního období byl fyzicky naskladněn materiál na sklad na základě skladové příjemky. Ke dni uzavření účetních knih nebyl tento materiál vyfakturován.",
+    "md": "111",
+    "d": "389",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_20",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka se rozhodla darovat Střední zemědělské škole traktor. Zúčtování zůstatkové ceny traktoru (VÚD).",
+    "md": "543",
+    "d": "082",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_21",
+    "type": "MCQ_MULTI",
+    "question": "Jaká problematika se zachycuje na účtu 538 - ostatní daně a poplatky?",
+    "options": [
+      "účtování spotřeby kolků",
+      "účtování silniční daně",
+      "předpis daně z nabytí nemovitých věcí",
+      "účtování vydání stravenek",
+      "účtování odpisu licence"
+    ],
+    "correctOptions": [
+      0,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_22",
+    "type": "MCQ_SINGLE",
+    "question": "Který ze způsobů vyřazení dlouhodobého majetku neovlivní výši nákladů, jestliže ZC>0?",
+    "options": [
+      "vyřazení v důsledku prodeje",
+      "vyřazení v důsledku krádeže majetku",
+      "vyřazení v důsledku převodu DM do osobního vlastnictví podnikatele",
+      "vyřazení v důsledku přírodní pohromy"
+    ],
+    "correctOptions": [
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_23",
+    "type": "MCQ_SINGLE",
+    "question": "Nevyfakturované dodávky zjištěné k 31. 12. za nákup materiálu nebo zboží se zachycují..389",
+    "options": [
+      "na analytických účtech dodavatelů",
+      "na dohadných účtech aktivních",
+      "žádná z výše uvedených odpovědí není správná",
+      "na dohadných účtech pasivních"
+    ],
+    "correctOptions": [
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_24",
+    "type": "MCQ_MULTI",
+    "question": "Sloupec označený jako korekce je v Rozvaze potřebný k zachycení: brutto=původní netto=brutto- korekce",
+    "options": [
+      "Opravných položek",
+      "Vytvořených rezerv",
+      "Odpisů",
+      "oprávek"
+    ],
+    "correctOptions": [
+      0,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_25",
+    "type": "ENTRY_MD_D",
+    "question": "Srážka zálohové daně z příjmů z hrubé mzdy se zúčtuje:",
+    "md": "331",
+    "d": "342",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_26",
+    "type": "MCQ_MULTI",
+    "question": "Daňový bonus u daně z příjmů při výpočtu mezd představuje:",
+    "options": [
+      "srážku z hrubé mzdy",
+      "navýšení hrubé mzdy",
+      "pohledávku za finančním úřadem",
+      "navýšení čisté mzdy"
+    ],
+    "correctOptions": [
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_27",
+    "type": "MCQ_SINGLE",
+    "question": "Předmět leasingu odpisuje:",
+    "options": [
+      "příjemce leasingu",
+      "finanční úřad",
+      "výrobce",
+      "poskytovatel leasingu"
+    ],
+    "correctOptions": [
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_28",
+    "type": "MCQ_SINGLE",
+    "question": "zboží na cestě se na konci účetního období účtuje v případě, že má účetní jednotka k dispozici",
+    "options": [
+      "příjemku i došlou fakturu",
+      "pouze dodací list",
+      "pouze příjemku",
+      "pouze fakturu za nákup"
+    ],
+    "correctOptions": [
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_29",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka pořizuje správní budovu dodavatelským způsobem (výstavba). Období po obdržení povolení ke stavbě. Přijatá faktura za provedené stavební práce. Zaúčtujte: cenu bez daně",
+    "md": "042",
+    "d": "321",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_30",
+    "type": "MCQ_SINGLE",
+    "question": "Do pořizovací ceny zásob řadíme",
+    "options": [
+      "externí dopravu, vlastní dopravu, clo, mzdu řidiče, cenu pořízení, náklady na reklamu",
+      "pojistné při přepravě, cenu pořízení, clo, dopravu vlastní a externí, provizi zaplacenou obchodníkovi",
+      "kurzový rozdíl v případě nákupu zásob mimo ČR, smluvní pokutu za pozdní úhradu fakturu za nákup zásob, cenu pořízení, clo",
+      "úroky z úvěru na pořízení zásob, clo, cenu pořízení, dopravu vlastní a externí"
+    ],
+    "correctOptions": [
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_31",
+    "type": "MCQ_SINGLE",
+    "question": "Při účtování na MD účtu Náklady příštích období se v běžném období (tj. letos):",
+    "options": [
+      "se sníží VH minulého období",
+      "se nezmění VH běžného období",
+      "se sníží VH běžného období",
+      "se zvýší VH běžného období"
+    ],
+    "correctOptions": [
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_33",
+    "type": "ENTRY_MD_D",
+    "question": "Zemědělská farma má vlastní prodejnu, kde prodává svoje výpěstky. VUD (SP) - zaúčtujte příjem sklizené zeleniny na sklad do vlastní prodejny (Předcházelo vyřazení z výrobků), nejsou náklady spojené s pořízením zboží.",
+    "md": "131",
+    "d": "585",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_34",
+    "type": "MCQ_SINGLE",
+    "question": "U majetku a závazků v cizí méně jsou účetní jednotky povinny k rozvahovému dni přecenit:",
+    "options": [
+      "peněžní prostředky ve valutové pokladně a na devizovém účtu kurzem ČNB vyhlášeném v rozvahový den, ostatní majetek a závazky jen dle rozhodnutí účetní jednotky",
+      "veškerý majetek kurzem ČNB vyhlášeném v rozvahový den, přecenění závazků je na rozhodnuti účetní jednotky",
+      "majetek se přeceňuje pouze v případě, že dojde ke snížení jeho hodnoty, a to v důsledku dodržení zásady opatrnosti",
+      "veškerý majetek a závazky na aktuální kurs devizového trhu vyhlášeném ČNB v rozvahový den"
+    ],
+    "correctOptions": [
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_35",
+    "type": "MCQ_MULTI",
+    "question": "Časové rozlišení v užším pojetí (tj. na účtech 381-385) vyžaduje přesné informace:",
+    "options": [
+      "od finančního úřadu",
+      "účtované částce",
+      "délce období",
+      "účelu vynaložení"
+    ],
+    "correctOptions": [
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_36",
+    "type": "MCQ_MULTI",
+    "question": "Účet peníze na cestě se nepoužije při",
+    "options": [
+      "převodu peněz mezi bankovním účtem a pokladnou",
+      "úhradě faktury přijaté",
+      "výplatě mezd v hotovosti",
+      "převodu peněz mezi bankovními účty"
+    ],
+    "correctOptions": [
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_37",
+    "type": "MCQ_MULTI",
+    "question": "Určete číslo účtu, na kterém se bude účtovat o zůstatkové ceně (ZC) dlouhodobého majetku:",
+    "options": [
+      "přeřazení DHM do osobního užívání (u fyzické osoby)\t\t491",
+      "vyřazení prodaného DHM\t\t\t\t\t541",
+      "vyřazení DHM likvidací v důsledku úplného opotřebení\t\t551",
+      "vyřazení DHM darováním\t\t\t\t\t543"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_38",
+    "type": "MCQ_MULTI",
+    "question": "Operace: Vyskladnění materiálu k prodeji:",
+    "options": [
+      "ovlivní velikost vlastního kapitálu nepřímo prostřednictvím výsledku hospodaření",
+      "sníží stav aktiv",
+      "ovlivní velikost vlastního kapitálu přímo",
+      "neovlivní velikost vlastního kapitálu"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_39",
+    "type": "MCQ_SINGLE",
+    "question": "Účet 111 - Pořízení materiálu",
+    "options": [
+      "může vykazovat na konci účetního období konečný zůstatek aktivní",
+      "žádná odpověď není správná",
+      "může vykazovat na konci účetního období konečný zůstatek pasivní",
+      "nesmí vykazovat na konci účetního období konečný zůstatek"
+    ],
+    "correctOptions": [
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_40",
+    "type": "MCQ_SINGLE",
+    "question": "Záloha poskytnutá dodavateli na nákup objednaného zboží z běžného účtu (VBÚ)",
+    "options": [
+      "se zachytí na účtu 153 - Poskytnuté zálohy na zboží",
+      "se zachytí na účtu 321 - Dodavatelé",
+      "se neúčtuje; pouze se zapíše do pomocné evidence záloh",
+      "se zachytí na účtu 314 - Poskytnuté provozní zálohy"
+    ],
+    "correctOptions": [
+      0
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_41",
+    "type": "ENTRY_MD_D",
+    "question": "Inventarizační přebytek zjištěný ke dni účetní uzávěrky u výrobků se zaúčtuje",
+    "md": "123",
+    "d": "583",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_42",
+    "type": "ENTRY_MD_D",
+    "question": "Převod konečného zůstatku zboží na skladě dle stavu skladových karet na účet zboží na skladě k 31.12. dle VUD. Způsob B účtování o zásobách.",
+    "md": "132",
+    "d": "504",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_43",
+    "type": "ENTRY_MD_D",
+    "question": "Příjem sklizeného ovoce na sklad podle příjemky bude zaúčtován",
+    "md": "123",
+    "d": "583",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_44",
+    "type": "MCQ_SINGLE",
+    "question": "Přijetí zásob jako daru v naší korporaci",
+    "options": [
+      "bude mít vliv na výši výnosů",
+      "nebude zachyceno jako účetní operace",
+      "představuje zvýšení vlastních zdrojů",
+      "bude mít vliv na výši nákladů"
+    ],
+    "correctOptions": [
+      0
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_45",
+    "type": "MCQ_SINGLE",
+    "question": "Na účtu 551 se účtují:",
+    "options": [
+      "pouze daňové odpisy dlouhodobého majetku",
+      "pouze komponentní odpisy",
+      "pouze účetní odpisy dlouhodobého majetku",
+      "účetní i daňové odpisy dlouhodobého majetku"
+    ],
+    "correctOptions": [
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_46",
+    "type": "ENTRY_MD_D",
+    "question": "Doúčtování poměrné části odpisů koně ke dni jeho vyřazení – VÚD Zaúčtujte.",
+    "md": "551",
+    "d": "086",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_47",
+    "type": "MCQ_MULTI",
+    "question": "Vnitropodniková směrnice uvádí pro DNM minimální výši ocenění 60 000 Kč a pro DHM 40 000 Kč.",
+    "options": [
+      "Určete, co patří do dlouhodobého hmotného majetku",
+      "software za 85 000 Kč",
+      "pozemek za 38 000 Kč",
+      "zboží na skladě za 80 000 Kč",
+      "stodola za 25 000 Kč",
+      "budova za 1 300 000 Kč"
+    ],
+    "correctOptions": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_48",
+    "type": "ENTRY_MD_D",
+    "question": "Předpis zálohy dodavateli na objednanou výrobní linku potřebnou na výrobu odlitků - zálohová",
+    "md": "052",
+    "d": "321",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_49",
+    "type": "ENTRY_MD_D",
+    "question": "Zaplacena záloha z bankovního účtu – VBÚ",
+    "md": "321",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_50",
+    "type": "ENTRY_MD_D",
+    "question": "VÚD – na základě provedené inventarizace bylo zjištěno manko nad normu u zboží na skladě, které vzniklo u zodpovědné osoby. Zaúčtujte předpis manka zaměstnanci k úhradě.",
+    "md": "335",
+    "d": "648",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_51",
+    "type": "ENTRY_MD_D",
+    "question": "VÚD – Zaúčtujte srážku ze mzdy zaměstnance jako úhradu za způsobené manko na zboží",
+    "md": "331",
+    "d": "335",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_53",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada mimořádné splátky leasingu v hotovosti se zaúčtuje:",
+    "md": "381",
+    "d": "211",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_54",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Úhrada doplatku za dodání zboží tuzemskému dodavateli – VBÚ.",
+    "md": "321",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_55",
+    "type": "ENTRY_MD_D",
+    "question": "Na základě inventarizace byl zjištěn inventarizační rozdíl – manko resp úbytek do normy u zboží (vnitřní účetní doklad). Manko do normy je závazně stanovené ve vnitřních směrnicích účetní jednotky",
+    "md": "504",
+    "d": "132",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_56",
+    "type": "ENTRY_MD_D",
+    "question": "V důsledku zasažení podniku na výrobu stavebního dřeva povodní, byl vyřazen stroj na zpracování dřeva Zaúčtujte: Vyřazení poškozeného dlouhodobého hmotného majetku z účetnictví – VÚD",
+    "md": "082",
+    "d": "022",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_57",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka získala darem výrobní zařízení v ocenění znalce ve výši 250 000 ............",
+    "md": "042",
+    "d": "648",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_58",
+    "type": "ENTRY_MD_D",
+    "question": "Zúčtování vlastní dopravy materiálu provedené účetní jednotkou (vnitřní účetní doklad).",
+    "md": "111",
+    "d": "586",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_59",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka pořizuje správní budovu dodavatelským způsobem (výstavba). Období po obdržení povolení ke stavbě. Úhrada úroků z bankovního účtu (výpis z bankovního účtu)",
+    "md": "562",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_60",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka pořizuje správní budovu dodavatelským způsobem (výstavba). Období před obdržením povolení ke stavbě.",
+    "md": "042",
+    "d": "345",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_61",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka pořizuje správní budovu dodavatelským způsobem (výstavba) Období po obdržení povolení ke stavbě. Úhrada všech dodavatelských faktur z investičního dlouhodobého úvěru (výpis z úvěrového účtu).",
+    "md": "321",
+    "d": "461",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_62",
+    "type": "ENTRY_MD_D",
+    "question": "Zemědělské družstvo prodává nepotřebný secí stroj (vnitřní účetní doklad). Zaúčtujte : Doúčtování poměrné části odpisů secího stroje.",
+    "md": "551",
+    "d": "082",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_63",
+    "type": "ENTRY_MD_D",
+    "question": "Veterinární prohlídka nakoupené dojnice před jejím zařazením do stáda – FAP.",
+    "md": "042",
+    "d": "321",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_64",
+    "type": "ENTRY_MD_D",
+    "question": "Vyskladnění brambor vyrobených v účetní jednotce k úhradě mezd naturální formou.",
+    "md": "583",
+    "d": "123",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_65",
+    "type": "ENTRY_MD_D",
+    "question": "Zúčtování DPH při úhradě mzdy naturální formou – daňový doklad (DD)",
+    "md": "331",
+    "d": "343",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_66",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada mzdy naturální formou: srážka z hrubé mzdy ve výši hodnoty vyskladněného výrobku – ZVL",
+    "md": "331",
+    "d": "601",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_67",
+    "type": "ENTRY_MD_D",
+    "question": "Osoba samostatně výdělečně činná – podnikatel vložil do svého podnikání vlastní osobní automobil v ocenění soudního znalce (vnitřní účetní doklad)",
+    "md": "042",
+    "d": "491",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_68",
+    "type": "ENTRY_MD_D",
+    "question": "Zúčtování ročního odpisu budovy – odpisový plán",
+    "md": "551",
+    "d": "081",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_69",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Nákup kolku a jeho vylepení na žádost podávanou na Obchodní soud ČR – VPD",
+    "md": "538",
+    "d": "211",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_70",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka rozhodla o likvidaci skladovací haly v důsledku jejího fyzického opotřebení. Zúčtování zůstatkové ceny skladovací haly do nákladů (VÚD).",
+    "md": "551",
+    "d": "081",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_71",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka rozhodla o prodeji stroje z důvodu jeho nevyužitelnosti. Zúčtování zůstatkové ceny DHM do nákladů (vnitřní účetní doklad)",
+    "md": "541",
+    "d": "082",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_72",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka rozhodla o prodeji stroje z důvodu jeho nevyužitelnosti. Doúčtování poměrného podílu odpisů za dané účetní období, ve kterém byl stroj využíván.",
+    "md": "551",
+    "d": "082",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_73",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka se rozhodla darovat Střední zemědělské škole traktor. Vyřazení traktoru z evidence – protokol o vyřazení.",
+    "md": "082",
+    "d": "022",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_74",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka se rozhodla věnovat Střední zemědělské škole darem traktor. Doúčtování poměrné části účetních odpisů za dané účetní období (VÚD).",
+    "md": "551",
+    "d": "082",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_75",
+    "type": "ENTRY_MD_D",
+    "question": "Školení pro zaměstnance k obsluze stroje...... 10 000, Kč..... – FAP",
+    "md": "518",
+    "d": "321",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_76",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Předpis cla celním úřadem při dovozu zboží ze třetí země.",
+    "md": "131",
+    "d": "379",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_77",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Platba cla celnímu úřadu při dovozu zboží ze třetí země – VBÚ",
+    "md": "379",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_78",
+    "type": "ENTRY_MD_D",
+    "question": "V důsledku vichřice byla způsobena škoda ve skladu zboží. Zboží je pojištěno. Zaúčtujte přiznanou výši odškodnění za škodu od pojišťovny (oznámení pojišťovny)",
+    "md": "378",
+    "d": "647",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_79",
+    "type": "ENTRY_MD_D",
+    "question": "JSD (jednotný správní doklad) – clo vyměřené celníky při dovozu zboží z třetích zemí",
+    "md": "131",
+    "d": "379",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_80",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka získala darem tiskařský stroj v ocenění znalce ve výši 300 000, Kč",
+    "md": "042",
+    "d": "648",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_81",
+    "type": "ENTRY_MD_D",
+    "question": "Prodej dospělých zvířat u neplátce DPH – FAV",
+    "md": "311",
+    "d": "641",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_82",
+    "type": "ENTRY_MD_D",
+    "question": "Osoba samostatně výdělečně činná (podnikatel) vložila do svého podnikání vlastní osobní automobil v ocenění soudního znalce – vnitřní účetní doklad. Zařazení osobního automobilu do užívání – protokol o uvedení do užívání.",
+    "md": "022",
+    "d": "042",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_83",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Vyskladnění vypěstovaných jablek k prodeji mimo účetní jednotku (skladová výdejka).",
+    "md": "583",
+    "d": "123",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_84",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtujte: Samovyměření DPH na výstupu (u tuzemského plátce DPH) na základě převzetí zboží od dodavatele z EU – VÚD.",
+    "md": "349",
+    "d": "343",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_85",
+    "type": "ENTRY_MD_D",
+    "question": "Účetní jednotka přijala dne 29.12. na základě skladové příjemky zboží na sklad. Tuto operaci řádně zaúčtovala. Ke dni 31.12. bylo zjištěno, že k přijatému zboží na sklad ze dne 29.12. nebyla dodána faktura. Zaúčtujte tento účetní případ.",
+    "md": "131",
+    "d": "389",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_86",
+    "type": "ENTRY_MD_D",
+    "question": "VBÚ – firma zaplatila zálohu dodavateli na objednaný materiál.",
+    "md": "151",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_89",
+    "type": "MCQ_MULTI",
+    "question": "Z dlouhodobého majetku se neodepisuje",
+    "options": [
+      "Pozemek",
+      "sbírka stříbrných mincí",
+      "cenný papír"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_92",
+    "type": "MCQ_MULTI",
+    "question": "součástí Pořizovací ceny dlouhodobého majetku jsou",
+    "options": [
+      "doprava, pojištění, clo",
+      "projektové, průzkumné a geologické práce",
+      "náklady spojené s přípravou a zabezpečením vystavby"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_98",
+    "type": "MCQ_MULTI",
+    "question": "Do Pořizovací ceny DM, nelze zahrnout",
+    "options": [
+      "náklady na školení pracovníků",
+      "náklady na opravu dlouhodobého majetku",
+      "kurzové rozdíly"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_112",
+    "type": "MCQ_MULTI",
+    "question": "Záznamy na skladových kartách zásob představují",
+    "options": [
+      "analytickou evidenceí",
+      "Mezi nakupované zásoby nepatří",
+      "výrobky"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_120",
+    "type": "MCQ_MULTI",
+    "question": "Do položky materiál v rozvaze neřadíme",
+    "options": [
+      "Energii",
+      "dostihové a tažné koně"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_121",
+    "type": "MCQ_MULTI",
+    "question": "Označte pravdivá tvrzení",
+    "options": [
+      "Pořizovací cena zahrnuje cenu pořizení a vedlejší náklady spojené s pořizením",
+      "Hlavními důvody pro vyskladnění materiálových zásob je jejich použití ve výrobě"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_124",
+    "type": "MCQ_MULTI",
+    "question": "Mezi zásoby vlastní výroby se řadí",
+    "options": [
+      "polotovar",
+      "výrobky"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_125",
+    "type": "MCQ_MULTI",
+    "question": "oceňování výrobků se provádí",
+    "options": [
+      "cenou ve výši vlastních nákladů vynaložených na výrobu produktu",
+      "kalkulací"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_127",
+    "type": "ENTRY_MD_D",
+    "question": "prodej výrobků odběratele na základě faktury vystavené bude zaúčtován",
+    "md": "311",
+    "d": "601",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_140",
+    "type": "ENTRY_MD_D",
+    "question": "vyrobení vlastních materiálových zásob se účtuje souvztažné na příslušných účtech",
+    "md": "111",
+    "d": "585",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_141",
+    "type": "MCQ_MULTI",
+    "question": "Při účtovaní pohybů na účtu 211- Pokladna se účtuje na základě",
+    "options": [
+      "příjmových a výdajových pokladních dokladů",
+      "Na účtu 213- Ceniny se účtují mimo jiné",
+      "Kolky a stravenky"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_145",
+    "type": "ENTRY_MD_D",
+    "question": "nákupu krátkodobých dluhových papírů účtuje věřitel na účtech",
+    "md": "253",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_147",
+    "type": "MCQ_MULTI",
+    "question": "Pasivní(záporný) zůstatek nemůže vykázat účet",
+    "options": [
+      "Běžný účet",
+      "Devizový účet"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_151",
+    "type": "ENTRY_MD_D",
+    "question": "Spotřeba poštovních známek při jejích vylepení na dopisy se zaúčtuje",
+    "md": "518",
+    "d": "213",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_156",
+    "type": "MCQ_MULTI",
+    "question": "Podkladem pro účtování operace na účtu 221 – Bankovní účty je",
+    "options": [
+      "výpis z běžného účtu",
+      "Devizový účet se vede",
+      "v zahraniční měně"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_167",
+    "type": "MCQ_MULTI",
+    "question": "Na kterém účtu není možné vykázat pasivní zůstatek na konci účetního období",
+    "options": [
+      "311 - odběratelé",
+      "312 – směnky k úhradě"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_178",
+    "type": "ENTRY_MD_D",
+    "question": "Jakým předpisem zaúčtujete přiznané hrubé mzdy zaměstnancům?",
+    "md": "521",
+    "d": "331",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_180",
+    "type": "ENTRY_MD_D",
+    "question": "pojistné odvádění zaměstnavatelem za zaměstnance se účtuje na účty:",
+    "md": "524",
+    "d": "336",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_186",
+    "type": "MCQ_MULTI",
+    "question": "Daňový bonus u daně z příjmu představuje",
+    "options": [
+      "Pohledávky za finančním úřadem",
+      "Navýšení čisté mzdy"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_188",
+    "type": "ENTRY_MD_D",
+    "question": "Srážka zálohové daně z příjmu z hrubé mzdy se zaúčtuje",
+    "md": "331",
+    "d": "342",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_195",
+    "type": "MCQ_MULTI",
+    "question": "Směnka k úhradě vyjadřuje",
+    "options": [
+      "směnečný závazek",
+      "Přijatá záloha",
+      "je závazkem",
+      "může být zachycena na účtu 324- přijaté provozní zálohy"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_197",
+    "type": "ENTRY_MD_D",
+    "question": "Zaplacena záloha na silniční daň z bankovního účtu se za účtuje",
+    "md": "345",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_198",
+    "type": "ENTRY_MD_D",
+    "question": "Avízo banky o proplacení směnky dlužníkem v případě eskontu se za účtuje",
+    "md": "232",
+    "d": "313",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_199",
+    "type": "MCQ_MULTI",
+    "question": "Opravná položka k pohledávkám je tvořena na:",
+    "options": [
+      "Sporné pohledávky",
+      "Pochybné pohledávky"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_200",
+    "type": "MCQ_MULTI",
+    "question": "Zrušení opravné položky k pohledávkám se za účtuje",
+    "options": [
+      "391/558 daňové",
+      "391/559 účetní"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_201",
+    "type": "ENTRY_MD_D",
+    "question": "Odpis prokazatelně nedobytné pohledávky dle soudního rozhodnutí se za účtuje:",
+    "md": "546",
+    "d": "311",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_202",
+    "type": "MCQ_MULTI",
+    "question": "kurzovém zisku účtujeme v případě, že je:",
+    "options": [
+      "nižší kurz v den platby závazku",
+      "vyšší kurz v den platby pohledávky"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_209",
+    "type": "MCQ_MULTI",
+    "question": "korporace může navýšit základní kapitál z",
+    "options": [
+      "Výsledků hospodaření ve schvalovacím řízení",
+      "Rezervního fondu",
+      "Emisního ážia"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_210",
+    "type": "MCQ_MULTI",
+    "question": "Vlastní kapitál fyzické osoby, která je účetní jednotkou se zachycuje na účtu",
+    "options": [
+      "491- Účet individuálního podnikatele",
+      "mezi kapitálové společnosti patří",
+      "s.r.o",
+      "a.s"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_211",
+    "type": "ENTRY_MD_D",
+    "question": "jak zaúčtujete zápis o zvýšení základního kapitálu do obchodního rejstříku",
+    "md": "419",
+    "d": "411",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_215",
+    "type": "ENTRY_MD_D",
+    "question": "jak se zaúčtuje splácení nepeněžitého vkladu pozemkem",
+    "md": "031",
+    "d": "353",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_218",
+    "type": "ENTRY_MD_D",
+    "question": "jakým účtovacím předpisem se zaúčtuje zaplacení jistiny v akciové společnosti",
+    "md": "211",
+    "d": "379",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_219",
+    "type": "ENTRY_MD_D",
+    "question": "jakým účtovacím předpisem se zaúčtuje použití zisku na úhradu zráty z minulých let",
+    "md": "431",
+    "d": "429",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_220",
+    "type": "ENTRY_MD_D",
+    "question": "vyberte účtovací předpis pro zaúčtování přiznání podílu společníků na zisku",
+    "md": "431",
+    "d": "364",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_221",
+    "type": "ENTRY_MD_D",
+    "question": "Čerpání rezerv se účtuje",
+    "md": "451",
+    "d": "552",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_222",
+    "type": "MCQ_MULTI",
+    "question": "za jakých podmínek je rezerva daňově uznatelným nákladem",
+    "options": [
+      "Je-li vytvořená na opravu hmotného majetku zařazeného do 2. a vyšší odpisové skupiny",
+      "Je-li vytvářena minimálně dvě účetní období"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_223",
+    "type": "ENTRY_MD_D",
+    "question": "jak se za účtuje tvorba rezervy na opravu osobního automobilu (1. Odpisová skupina)",
+    "md": "554",
+    "d": "459",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_225",
+    "type": "ENTRY_MD_D",
+    "question": "jakým účtovacím předpisem se zaúčtuje předpis srážkové daně z přiznaných podílů na zisku",
+    "md": "364",
+    "d": "342",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_226",
+    "type": "ENTRY_MD_D",
+    "question": "vyberte účtovací předpis pro zaúčtování výběru hotovosti na osobní spotřebu podnikatele",
+    "md": "491",
+    "d": "211",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_228",
+    "type": "MCQ_MULTI",
+    "question": "Do nákladů vstupujících do pořizovací ceny externě pořízených zásob patří:",
+    "options": [
+      "doprava,",
+      "clo,",
+      "pojistné,",
+      "provize."
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_229",
+    "type": "MCQ_MULTI",
+    "question": "Mezi provozní náklady nepatří",
+    "options": [
+      "Spotřeba materiálu",
+      "Ostatní finanční náklady"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_230",
+    "type": "MCQ_MULTI",
+    "question": "Mezi zásady pro účtování nákladů patří",
+    "options": [
+      "Věcná a časová souvislost se sledovaným úč. obd.",
+      "Zákaz kompenzace",
+      "Zásada kumulace"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_231",
+    "type": "MCQ_MULTI",
+    "question": "Náklady jsou peněžním vyjádřením",
+    "options": [
+      "Spotřeby živé a zvěcnělé práce",
+      "Opotřebení dlouhodobého majetku"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_232",
+    "type": "MCQ_MULTI",
+    "question": "Co bude v uvedených případech výnosem?",
+    "options": [
+      "Vydaná faktura odběrateli za prodané výrobky",
+      "Přijatý úrok"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_233",
+    "type": "MCQ_MULTI",
+    "question": "Vyberte pravdivé tvrzení",
+    "options": [
+      "Výdaj nemusí být vždy nákladem úč. Jednotky",
+      "Příjem nemusí být současně výnosem úč. Jednotky"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_234",
+    "type": "MCQ_MULTI",
+    "question": "Vyberte správné účtovací předpisy",
+    "options": [
+      "Schodek v pokladně 569/211",
+      "Výběr pro osobní spotřebu v hotovosti 491/211"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_242",
+    "type": "ENTRY_MD_D",
+    "question": "Jakým účtovacím předpisem zaúčtujete dodatečné odvody daně z příjmu",
+    "md": "595",
+    "d": "341",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_243",
+    "type": "MCQ_MULTI",
+    "question": "Který z uvedených nákladů je nedaňovým nákladem",
+    "options": [
+      "513",
+      "545",
+      "554"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_244",
+    "type": "MCQ_MULTI",
+    "question": "Jaká problematika je zachycena na účtu 538 – ostatní daně a poplatky?",
+    "options": [
+      "Účtování spotřeby kolků",
+      "Účtování poplatku za převod motorových vozidel"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_245",
+    "type": "ENTRY_MD_D",
+    "question": "Přiznané hrubé mzdy společníkům zaměstnávaným ve společnosti se zaúčtují",
+    "md": "522",
+    "d": "366",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_246",
+    "type": "ENTRY_MD_D",
+    "question": "Jakým účtovacím předpisem zaúčtujete předpis náhrady manka skladníkovi k úhradě",
+    "md": "335",
+    "d": "648",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_252",
+    "type": "MCQ_MULTI",
+    "question": "Na účtu zůstatková cena prodaného DHM a DNM (541) se účtuje v případě prodeje majetku. Částka se rovná.",
+    "options": [
+      "Rozdílu mezi pořizovací cenou a celkovými odpisy",
+      "Rozdílu mezi pořizovací cenou a oprávkami"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_254",
+    "type": "MCQ_MULTI",
+    "question": "Operace: vyskladnění materiálu k prodeji",
+    "options": [
+      "Ovlivní velikost vlastního kapitálu nepřímo prostřednictvím výsledku hospodaření",
+      "Sníží stav aktiv"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_258",
+    "type": "MCQ_MULTI",
+    "question": "Časové rozlišení nákladů zahrnuje",
+    "options": [
+      "Náklady příštích období",
+      "Komplexní náklady příštích období"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_260",
+    "type": "ENTRY_MD_D",
+    "question": "Zaúčtování přijatého nájemného předem u pronajímatele",
+    "md": "221",
+    "d": "384",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_262",
+    "type": "ENTRY_MD_D",
+    "question": "Poskytnuté služby v běžném období budou naší společnosti uhrazeny až v následujícím roce:",
+    "md": "385",
+    "d": "602",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_263",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada mimořádné splátky u finančního leasingu",
+    "md": "381",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_264",
+    "type": "ENTRY_MD_D",
+    "question": "Rozpouštění odpovídající částky z mimořádné leasingové splátky v následujících účetních obdobích u příjemce leasingu:",
+    "md": "518",
+    "d": "381",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_265",
+    "type": "ENTRY_MD_D",
+    "question": "Za přijaté služby zaplatí naše společnost až v následujícím účetním období",
+    "md": "518",
+    "d": "383",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_267",
+    "type": "MCQ_MULTI",
+    "question": "Časové rozlišení v širším pojetí zahrnuje problematiku:",
+    "options": [
+      "Účtování rezerv",
+      "Účtování dohadných položek"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_269",
+    "type": "MCQ_MULTI",
+    "question": "Do nákladů příštích období se zaúčtuje:",
+    "options": [
+      "Předplatné odborného tisku",
+      "Úhradu nájemného na další rok"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_270",
+    "type": "MCQ_MULTI",
+    "question": "Mezi základní druhy leasingu patří",
+    "options": [
+      "finanční",
+      "Operativní"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_272",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada mimořádné splátky leasingu v hotovosti se zaúčtuje",
+    "md": "381",
+    "d": "211",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_273",
+    "type": "ENTRY_MD_D",
+    "question": "Rozpouštění poměrné části mimořádné splátky do nákladů se zaúčtuje",
+    "md": "518",
+    "d": "381",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_274",
+    "type": "MCQ_MULTI",
+    "question": "Z pohledu zákona o DPH je u příjemce finančního leasingu podstatné, zda:",
+    "options": [
+      "Je po skončení leasingu možnost odkupu",
+      "Je po skončení leasingu povinnost odkupu"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_275",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada zálohy na nájemné se zaúčtuje z pohledu příjemce finančního leasingu",
+    "md": "314",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "e_277",
+    "type": "ENTRY_MD_D",
+    "question": "Úhrada zálohy na pořízení dlouhodobého majetku se zaúčtuje z pohledu příjemce finančního leasingu",
+    "md": "052",
+    "d": "221",
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_278",
+    "type": "MCQ_MULTI",
+    "question": "Vyberte pravdivé tvrzení",
+    "options": [
+      "Finanční leasing je převážně dlouhodobý",
+      "Pro daňovou uznatelnost nákladů spojených s leasingem musí doba trvání finančního leasingu dosahovat minimálně doby odpisování dle odpisové skupiny pro daný druh majetku"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_279",
+    "type": "MCQ_MULTI",
+    "question": "Povinnost prokázání provedení inventarizace",
+    "options": [
+      "Je stanovena v zákoně o účetnictví",
+      "Je po dobu 5 let po jejím provedení"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_280",
+    "type": "MCQ_MULTI",
+    "question": "Účetní doklady se uchovávají",
+    "options": [
+      "Po dobu 5 let po skončení úč. Období",
+      "Doba je stanovena v zákoně o účetnictví"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_281",
+    "type": "MCQ_MULTI",
+    "question": "Účetní závěrka se uchovává",
+    "options": [
+      "Po dobu 10 let po skončení úč. Období",
+      "Doba je stanovena v Zákoně o účetnictví"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_282",
+    "type": "MCQ_MULTI",
+    "question": "Účetní knihy se uchovávají",
+    "options": [
+      "Po dobu 5 let po skončení úč. Období",
+      "Doba je stanovena v Zákoně o účetnictví"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_285",
+    "type": "MCQ_MULTI",
+    "question": "Účetní uzávěrka představuje",
+    "options": [
+      "Zjištění výsledku hospodaření",
+      "Doúčtování účetních operací k 31.12",
+      "Výpočet a zaúčtování daně z příjmu"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_286",
+    "type": "MCQ_MULTI",
+    "question": "Zůstatky bankovních úvěrů jsou uvedeny v rozvaze ve",
+    "options": [
+      "Ve výkazu Rozvaha a v pasivech v cizím kapitálu",
+      "Výsledek hospodaření se vypočte jako",
+      "Rozdíl Výnosů a Nákladů"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_290",
+    "type": "MCQ_MULTI",
+    "question": "Účetní závěrku musí mít otevřenou auditorem",
+    "options": [
+      "Velké úč. Jednotky",
+      "Malé uč. Jednotky",
+      "Střední úč. Jednotky"
+    ],
+    "correctOptions": [
+      0,
+      1,
+      2
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_291",
+    "type": "MCQ_MULTI",
+    "question": "Přehled o peněžních tocích sestavený nepřímou metodou vychází z úpravy:",
+    "options": [
+      "Nákladů",
+      "Výnosů"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_292",
+    "type": "MCQ_MULTI",
+    "question": "Jestliže jsou za zdaňovací a účetní období účetní odpisy větší než daňové",
+    "options": [
+      "Bude se základ daně příjmů zvyšovat",
+      "Bude se rozdíl mezi nimi připočítávat k základu daně"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_294",
+    "type": "MCQ_MULTI",
+    "question": "Pořizovací cenou se oceňují",
+    "options": [
+      "Nakoupené zásoby",
+      "Nakoupený dlouhodobý finanční majetek"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  },
+  {
+    "id": "m_297",
+    "type": "MCQ_MULTI",
+    "question": "Rozvaha podává informace o",
+    "options": [
+      "Finanční situaci (pozici) společnosti",
+      "Struktuře majetku a zdrojů"
+    ],
+    "correctOptions": [
+      0,
+      1
+    ],
+    "source": "zapoctovy-test.docx"
+  }
+]

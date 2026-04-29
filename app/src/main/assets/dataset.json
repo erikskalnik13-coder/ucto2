@@ -1,0 +1,2078 @@
+[
+  {
+    "doklad": "VÚD",
+    "pripad": "Vlastní doprava materiálu",
+    "md": "111",
+    "d": "586"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vlastní doprava materiálu – ZP. B",
+    "md": "501",
+    "d": "586"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Škoda způsobená zatopením skladu – ZP. B",
+    "md": "547",
+    "d": "501"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převod PZ účtu Materiál na skladě do spotřeby",
+    "md": "501",
+    "d": "112"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převod KZ materiálu ze skladové karty na majetkový účet Materiál na skladě",
+    "md": "112",
+    "d": "501"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování prodaného materiálu – ZP. B",
+    "md": "542",
+    "d": "501"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Vyskladnění výrobků ze skladu",
+    "md": "583",
+    "d": "123"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Aktivace materiálu",
+    "md": "112",
+    "d": "585"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis manka zaměstnanci k náhradě (materiál)",
+    "md": "335",
+    "d": "648"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přiznaná náhrada škody od pojišťovny, přírodní katastrofa",
+    "md": "378",
+    "d": "647"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijaté pojistné",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Neobdržená dodávka zboží na konci ÚO",
+    "md": "139",
+    "d": "131"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Účetní operace po obdržení zboží (předcházela neobdržená dodávka)",
+    "md": "131",
+    "d": "139"
+  },
+  {
+    "doklad": "SP",
+    "pripad": "Příjem zboží na sklad",
+    "md": "132",
+    "d": "131"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Neobdržená faktura naskladněného zboží",
+    "md": "131",
+    "d": "389"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Účetní operace po obdržení faktury ke zboží (předcházela neobdržená faktura)",
+    "md": "389",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Mzdové náklady traktoristy",
+    "md": "521",
+    "d": "331"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "SP a ZP hrazené zaměstnavatelem",
+    "md": "524",
+    "d": "336"
+  },
+  {
+    "doklad": "SP",
+    "pripad": "Přebytek NV v dílně",
+    "md": "121",
+    "d": "581"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Za pravidelnou údržbu linky",
+    "md": "511",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Úhrada předepsaného manka na materiálu zaměstnancem srážkou ze mzdy",
+    "md": "331",
+    "d": "335"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Výdej výrobků pro reprezentační účely",
+    "md": "513",
+    "d": "123"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP na přechodné snížení hodnoty výrobků",
+    "md": "559",
+    "d": "194"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Odpis HMV",
+    "md": "551",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Nabytí koně darem (nebude následovat zařazení)",
+    "md": "026",
+    "d": "643"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zaevidování nově narozených telat",
+    "md": "124",
+    "d": "584"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP na přechodné snížení hodnoty telat",
+    "md": "559",
+    "d": "195"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Uplatněn reklamační nárok na dodávku materiálu od dodavatele",
+    "md": "315",
+    "d": "111"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přijetí materiálu na sklad po úspěšné reklamaci od dodavatele",
+    "md": "112",
+    "d": "315"
+  },
+  {
+    "doklad": "ODD",
+    "pripad": "Za uznanou reklamaci materiálu od dodavatele (jakoby ODD=faktura)",
+    "md": "315",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zamítnutí reklamačního nároku od dodavatele",
+    "md": "549",
+    "d": "315"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Dodání náhradního zboží odběrateli",
+    "md": "504",
+    "d": "132"
+  },
+  {
+    "doklad": "ODD",
+    "pripad": "Za uznanou reklamaci materiálu odběrateli u zboží (ODD=faktura)",
+    "md": "311",
+    "d": "604"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Za zpracování projektu ke stavbě",
+    "md": "042",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis odvodu za trvalé a dočasné odnětí půdy obecnímu úřadu",
+    "md": "042",
+    "d": "345"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada odvodu za odnětí půdy z půdního fondu (předcházel předpis)",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Úhrada odvodu za odnětí půdy z půdního fondu (nepředcházel předpis)",
+    "md": "042",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚÚ",
+    "pripad": "Úhrada faktury (vúú)",
+    "md": "321",
+    "d": "461"
+  },
+  {
+    "doklad": "VBÚ,VÚÚ",
+    "pripad": "Splátka úvěru z BÚ",
+    "md": "461",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada úroků z úvěru (úroky jsou zde součástí pořizovací ceny stavby)",
+    "md": "042",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada úroků z úvěru (úroky nejsou zde součástí pořizovací ceny stavby)",
+    "md": "562",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Jednorázová úhrada nájemného",
+    "md": "381",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování nájemného vztahujícího se k předchozímu roku (podíl nájemného)",
+    "md": "518",
+    "d": "381"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Aktivace nákladů vynaložených na stavbu (stavba je DHM) (úč. třída 5)",
+    "md": "042",
+    "d": "588"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vklad auta z osobního majetku podnikatele (bude následovat zařazení)",
+    "md": "042",
+    "d": "491"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Nárok na přiznanou dotaci od OÚ",
+    "md": "378",
+    "d": "347"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Užití dotace na investici HMV",
+    "md": "347",
+    "d": "042"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí dotace",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Povinnost navrácení dotace z důvodu porušení podmínek (čerpána na HMV)",
+    "md": "042",
+    "d": "347"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Vrácení peněz do obecního rozpočtu při vrácení dotace",
+    "md": "347",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Prodej HMV",
+    "md": "541",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení HMV",
+    "md": "082",
+    "d": "022"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Darování HMV",
+    "md": "543",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Likvidace HMV v důsledku škody – přírodní pohroma",
+    "md": "547",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Likvidace HMV v důsledku škody – provozní příčina",
+    "md": "549",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převedení HMV do osobního majetku",
+    "md": "491",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Likvidace HMV v důsledku opotřebení",
+    "md": "551",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Manko u sbírky mincí",
+    "md": "549",
+    "d": "032"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přebytek u pozemků",
+    "md": "031",
+    "d": "413"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Za prodaný HMV (DHM)",
+    "md": "311",
+    "d": "641"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Za likvidaci HMV (DHM)",
+    "md": "518",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Výnos z likvidovaného HMV ve formě náhradních dílů přijatých na sklad",
+    "md": "112",
+    "d": "585"
+  },
+  {
+    "doklad": "PPD",
+    "pripad": "Výnos z likvidovaného HMV, přímý prodej součástek zaměstnancům",
+    "md": "211",
+    "d": "642"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis náhrady škody, přírodní katastofa (obdržené potvrzení od pojišťovny o přiznané náhradě škody)",
+    "md": "378",
+    "d": "647"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis odvodu DPH z darovaného HMV",
+    "md": "543",
+    "d": "343"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Pojišťovna přijala náhradu škody při odcizení",
+    "md": "378",
+    "d": "648"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zaplacena záloha na koupi budovy",
+    "md": "052",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení budovy z evidence",
+    "md": "081",
+    "d": "021"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Nákup počítače (není DM) bez dalších nákladů",
+    "md": "112",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zařazení počítače do používání (není DM)",
+    "md": "501",
+    "d": "112"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zařazení počítače na příslušný majetkový účet (předcházely náklady) (není DM)",
+    "md": "112",
+    "d": "111"
+  },
+  {
+    "doklad": "SP",
+    "pripad": "Dar nábytku (není DM)",
+    "md": "112",
+    "d": "648"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Vydání výrobků k reprezentaci",
+    "md": "513",
+    "d": "123"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Spotřeba výrobků",
+    "md": "583",
+    "d": "123"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Vydání výrobků jako dar",
+    "md": "543",
+    "d": "123"
+  },
+  {
+    "doklad": "SP",
+    "pripad": "Aktivace do pořízení zboží v prodejně",
+    "md": "131",
+    "d": "585"
+  },
+  {
+    "doklad": "ZVL",
+    "pripad": "Úhrada mezd naturální formou",
+    "md": "331",
+    "d": "601"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přírůstek selat",
+    "md": "124",
+    "d": "584"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Nezaviněný úhyn selat",
+    "md": "584",
+    "d": "124"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Aktivace zvířete do DHM",
+    "md": "026",
+    "d": "588"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování ZC dojnice",
+    "md": "541",
+    "d": "086"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení dojnice z majetku",
+    "md": "086",
+    "d": "026"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Za prodanou dojnici (dospělé zvíře)",
+    "md": "311",
+    "d": "641"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Aktivace zvířete do OM",
+    "md": "124",
+    "d": "585"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Úhyn zvířete v důsledku nemoci (OM)",
+    "md": "549",
+    "d": "124"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Úhyn zvířete při povodni",
+    "md": "547",
+    "d": "124"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Srážka předepsané škody ze mzdy zootechnika",
+    "md": "331",
+    "d": "335"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozhodnutí o nároku na podíl na zisku vlastníka",
+    "md": "431",
+    "d": "364"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis srážkové daně (při rozhodnutí o nároku na podílu na zisku vlastníka)",
+    "md": "364",
+    "d": "342"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada srážkové daně z BÚ",
+    "md": "342",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Výplata podílu na zisku z BÚ",
+    "md": "364",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí podílu na zisku vlastníka z firmy dle VBÚ (v pozici vlastníka) u majetkových CP",
+    "md": "221",
+    "d": "665"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zaplacení zálohy na nákup CP",
+    "md": "053",
+    "d": "221"
+  },
+  {
+    "doklad": "FP",
+    "pripad": "Pořízení akcií (100% ovládat)",
+    "md": "061",
+    "d": "321"
+  },
+  {
+    "doklad": "FAPZ",
+    "pripad": "Zúčtování dříve zaplacené zálohy před úhradou závazku",
+    "md": "321",
+    "d": "053"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Doplacení závazku dodavateli po zaplacení zálohy",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Pořízení spekulativních majetkových CP určených k obchodování",
+    "md": "251",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přecenění majetkových CP určených k obchodování (navýšení hodnoty-výnos)",
+    "md": "251",
+    "d": "664"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování úbytku majetkových CP určených k obchodování za účelem prodeje",
+    "md": "561",
+    "d": "251"
+  },
+  {
+    "doklad": "PPD",
+    "pripad": "Tržba z prodeje majetkových CP určených k obchodování",
+    "md": "211",
+    "d": "661"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Nákup dluhopisu",
+    "md": "065",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Doúčtování zbývající části naběhlého kupónu z dluhopisu na konci ú.o.",
+    "md": "065",
+    "d": "665"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Umoření diskontu u dluhopisu",
+    "md": "566",
+    "d": "065"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Inkaso kupónu u dluhopisu",
+    "md": "221",
+    "d": "065"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vystavení směnky dlužníkem (odběratel nám dlužil za zboží), akceptujeme směnku jako platební prostředek (jsme v pozici věřitele)",
+    "md": "256",
+    "d": "311"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování úroků běžného účetního období u směnky jako platebního prostředku, kterou nám vystavil dlužník (jsme v pozici věřitele)",
+    "md": "256",
+    "d": "662"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zaplacení směnky (jako platebního prostředku) dlužníkem (pozice věřitele)",
+    "md": "221",
+    "d": "256"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Akceptace směnky (my jsme dlužník)",
+    "md": "321",
+    "d": "322"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování úroků běžného účetního období u směnky jako platebního prostředku, kterou jsme vystavili věřiteli (jsme dlužník)",
+    "md": "562",
+    "d": "322"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Platba směnky (my jsme dlužník a platíme věřiteli) jako platebního prostředku",
+    "md": "322",
+    "d": "221"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Nákup směnky jako cenného papíru za hotové dle pokladního dokladu (věřitel)",
+    "md": "256",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování výnosů ze směnky jako cenného papíru (věřitel)",
+    "md": "256",
+    "d": "666"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Vypořádání nominální hodnoty směnky, inkaso a celková hodnota převedená na BÚ (věřitel)",
+    "md": "221",
+    "d": "256"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Pořizovací cena směnky (jako nástroj krytí ÚO), souvisí s FAV (věřitel)",
+    "md": "256",
+    "d": "311"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Alikvótní část směnečného úroku (jako nástroj krytí ÚO)",
+    "md": "256",
+    "d": "662"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zaúčtování dosud nezaúčtovaných úroků u směnky (jako nástroj krytí ÚO)",
+    "md": "256",
+    "d": "662"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předání směnky bance k eskontu (jako nástroj krytí ÚO)",
+    "md": "313",
+    "d": "256"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí eskontního úvěru od banky u směnky – převod peněz na BÚ",
+    "md": "221",
+    "d": "232"
+  },
+  {
+    "doklad": "VÚÚ",
+    "pripad": "Přijetí eskontního úvěru od banky u směnky – úroky (diskont)",
+    "md": "562",
+    "d": "232"
+  },
+  {
+    "doklad": "VÚÚ",
+    "pripad": "Přijetí eskontního úvěru od banky u směnky – poplatky za vyřízení eskontu",
+    "md": "568",
+    "d": "232"
+  },
+  {
+    "doklad": "VÚÚ",
+    "pripad": "Oznámení od banky, že směnečný dlužník zaplatil (započtení pohledávky za eskontované CP)",
+    "md": "232",
+    "d": "313"
+  },
+  {
+    "doklad": "VÚÚ",
+    "pripad": "Oznámení od banky, že směnečný dlužník nezaplatil – vrácení směnky bankou",
+    "md": "256",
+    "d": "313"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Oznámení od banky, že směnečný dlužník nezaplatil – vrácení eskontního úvěru bance z BÚ",
+    "md": "232",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis daně z příjmů PO",
+    "md": "591",
+    "d": "341"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis daně z nemovitých věcí",
+    "md": "532",
+    "d": "345"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Platba silniční daně (předcházel předpis daně)",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis poplatku za odvoz komunálního odpadu OÚ",
+    "md": "538",
+    "d": "345"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Platba poplatku za odvoz komunálního odpadu (předcházel předpis)",
+    "md": "345",
+    "d": "211"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Platba poplatku za odvoz komunálního odpadu (nepředcházel předpis)",
+    "md": "538",
+    "d": "211"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Nákup kolků a jejich okamžité použití",
+    "md": "538",
+    "d": "211"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Nákup poštovních známek a jejich okamžitá spotřeba",
+    "md": "518",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis sražené zálohy na daň z příjmů z mezd zaměstnanců",
+    "md": "331",
+    "d": "342"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Odvod DPH finančnímu úřadu",
+    "md": "343",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Vrácení DPH finančním úřadem",
+    "md": "221",
+    "d": "343"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatá záloha od odběratele za objednané zboží",
+    "md": "221",
+    "d": "324"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "K přijaté záloze od odběratele za zboží – DPH",
+    "md": "324",
+    "d": "343"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatý doplatek za dodávku zboží od odběratele",
+    "md": "221",
+    "d": "311"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zaplacená záloha dodavateli za objednané zboží",
+    "md": "153",
+    "d": "221"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "K zaplacené záloze dodavateli – DPH",
+    "md": "343",
+    "d": "153"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada doplatku za dodávku zboží",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Samovyměření DPH na výstupu",
+    "md": "349",
+    "d": "343"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "DPH na vstupu – nárok na odpočet",
+    "md": "343",
+    "d": "349"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl u závazku vůči dodavateli – ztráta",
+    "md": "563",
+    "d": "321"
+  },
+  {
+    "doklad": "JSD",
+    "pripad": "Předpis cla z pořizovací ceny zboží, celní kurs",
+    "md": "131",
+    "d": "379"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada cla celnímu úřadu",
+    "md": "379",
+    "d": "221"
+  },
+  {
+    "doklad": "JSD",
+    "pripad": "Celníci propustili dodávku do volného režimu u náhradních dílů a doměřili clo",
+    "md": "111",
+    "d": "379"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl u závazku vůči dodavateli – zisk",
+    "md": "321",
+    "d": "663"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Užití náhradních dílů k opravě poškozeného auta",
+    "md": "501",
+    "d": "112"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Vyřazení zboží poškozeného povodní",
+    "md": "547",
+    "d": "132"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přiznání nároku na úhradu škody (povodně) pojišťovnou",
+    "md": "378",
+    "d": "647"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Příchozí platba od pojišťovny (náhrada škody)",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada zálohy dodavateli za zboží",
+    "md": "153",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Uplatnění zaplacené zálohy na zboží u faktury přijaté",
+    "md": "321",
+    "d": "153"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Nákup odborné literatury",
+    "md": "501",
+    "d": "211"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatá záloha od zákazníka za služby",
+    "md": "221",
+    "d": "324"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "K přijaté záloze od zákazníka za služby – DPH",
+    "md": "324",
+    "d": "343"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Složena záloha na služby v hotovosti",
+    "md": "314",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Advokátní kancelář zaslala vyúčtování úroků za pozdní paltbu faktury",
+    "md": "544",
+    "d": "325"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis smluvní pokuty odběrateli za pozdní platbu faktury",
+    "md": "315",
+    "d": "644"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatá platba smluvní pokuty od odběratele",
+    "md": "221",
+    "d": "315"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Platba úroků advokátní kanceláři za pozdní úhradu faktury",
+    "md": "325",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Platba zálohy na daň z příjmů společnosti",
+    "md": "341",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Záloha na silniční daň spojená s auty společnosti",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Za prodej výrobku – zaúčtuj spotřební daň",
+    "md": "311",
+    "d": "345"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis daně z nemovitých věcí",
+    "md": "532",
+    "d": "345"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis odvodu silniční daně",
+    "md": "531",
+    "d": "345"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada daně z nemovitých věcí",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada silniční daně",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada spotřební daně",
+    "md": "345",
+    "d": "221"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Výplata zálohy zaměstnanci na služebni cestu",
+    "md": "335",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Náhrada zaměstnanci za použití soukromého vozidla na služební cestu",
+    "md": "512",
+    "d": "333"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování poskytnuté zálohy zaměstnanci na služební cestu",
+    "md": "333",
+    "d": "335"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Nocležné a stravné zaměstnance na služební cestě",
+    "md": "512",
+    "d": "333"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Vyúčtování zálohy zaměstnanci za služební cestu (doplatek zaměstnanci za výdaje)",
+    "md": "333",
+    "d": "211"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Výplata zálohy na mzdu zaměstnanci",
+    "md": "331",
+    "d": "211"
+  },
+  {
+    "doklad": "ZVL",
+    "pripad": "Zúčtování nároku na HM",
+    "md": "521",
+    "d": "331"
+  },
+  {
+    "doklad": "ZVL",
+    "pripad": "Zúčtování SP a ZP hrazeného zaměstnancem",
+    "md": "331",
+    "d": "336"
+  },
+  {
+    "doklad": "ZVL",
+    "pripad": "Zúčtování zálohy na daň z příjmů zaměstnance",
+    "md": "331",
+    "d": "342"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis odvodu SP a ZP hrazeného zaměstnavatelem",
+    "md": "524",
+    "d": "336"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis úrazového pojištění zaměstnance",
+    "md": "527",
+    "d": "379"
+  },
+  {
+    "doklad": "ZVL",
+    "pripad": "Předpis srážky ze mzdy na penzijní připojištění zaměstnance",
+    "md": "331",
+    "d": "379"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Nákup stravenek od dodavatele",
+    "md": "213",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předání stravenek zaměstnancům – 55% hodnoty stravenky (do limitu)",
+    "md": "527",
+    "d": "213"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předání stravenek zaměstnancům – 20% hodnoty stravenky (hradí zaměstnanec)",
+    "md": "335",
+    "d": "213"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předání stravenek zaměstnancům – 25% hodnoty stravenky (nad limit)",
+    "md": "528",
+    "d": "213"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Výplata doplatku mezd",
+    "md": "331",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada SP a ZP",
+    "md": "336",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zálohy na daň z příjmů (u zaměstnanců)",
+    "md": "342",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada penzijního připojištění zaměstnance",
+    "md": "379",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada úrazového pojištění",
+    "md": "379",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada stravenek dodavateli",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při revalvaci u pohledávek (předcházela FAV odběrateli)",
+    "md": "563",
+    "d": "311"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při devalvaci u pohledávek (předcházela FAV odběrateli)",
+    "md": "311",
+    "d": "663"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při revalvaci u závazků (předcházela FAP od dodavatele)",
+    "md": "321",
+    "d": "663"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při devalvaci u závazků (předcházela FAP od dodavatele)",
+    "md": "563",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při revalvaci na devizovém účtu",
+    "md": "563",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při devalvaci na devizovém účtu",
+    "md": "221",
+    "d": "663"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při revalvaci ve valutové pokladně",
+    "md": "563",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Kurzový rozdíl při devalvaci ve valutové pokladně",
+    "md": "211",
+    "d": "663"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Celková částka komplexních nákladů příštích období k časovému rozlišení",
+    "md": "382",
+    "d": "555"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Podíl komplexních nákladů v roce 20xx",
+    "md": "555",
+    "d": "382"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Platba pojistného ze zákonné odpovědnosti vozidel v roce 20xx+1 (v následujícím roce)  teď platíme, náklad to pro nás bude až v příštím období",
+    "md": "381",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Nájemné přijaté za rok 20xx+1 (za následující rok)  teď nám přišly peníze a výnos to bude až v příštím období",
+    "md": "221",
+    "d": "384"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Odhadnutá výše telefonních poplatků za prosinec 20xx",
+    "md": "518",
+    "d": "389"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Odhadnutá výše náhrady provozní škody od pojišťovny",
+    "md": "388",
+    "d": "648"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování pojistného ze zákonné odpovědnosti vozidel (předcházela operace s nákladem příštích období)",
+    "md": "548",
+    "d": "381"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování nájemného (předcházela operace s výnosem příštích období)",
+    "md": "384",
+    "d": "602"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zachycení předmětu leasingu v podrozvahové evidenci (nájemce)",
+    "md": "75x",
+    "d": "---"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zachycení dlouhodobého závazku v podrozvahové evidenci (nájemce)",
+    "md": "---",
+    "d": "75x"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada mimořádné splátky leasingu (nájemce)",
+    "md": "381",
+    "d": "221"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "K předmětu leasingu od leasingové společnosti – DPH (nájemce)",
+    "md": "343",
+    "d": "321"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada DPH ve výši obdrženého daňového dokladu (DD) (nájemce)",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Předpis měsíční úplaty leasingu (nájemce)",
+    "md": "518",
+    "d": "321"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada předepsané měsíční splátky leasingu (nájemce)",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění měsíční poměrné částky nákladů příštích období do nákladů běžného období (nájemce)",
+    "md": "518",
+    "d": "381"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Snížení dlouhodobého závazku v podrozvahové evidenci (nájemce)",
+    "md": "75x",
+    "d": "---"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení předmětu leasingu z podrozvahové evidence (nájemce)",
+    "md": "---",
+    "d": "75x"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Za odkoupení vozidla po skončení leasingu (nájemce) - není zařazen do užívání",
+    "md": "042",
+    "d": "321"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Nákup předmětu leasingu, automobil ihned zařazen do obchodního majetku pronajímatele (pronajímatel)",
+    "md": "022",
+    "d": "321"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zachycení dlouhodobé pohledávky v podrozvahové evidenci (pronajímatel)",
+    "md": "75x",
+    "d": "---"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí úhrady mimořádné splátky leasingu (pronajímatel)",
+    "md": "221",
+    "d": "384"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "Vystavený k předmětu leasingu – DPH (pronajímatel)",
+    "md": "311",
+    "d": "343"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí úhrady DPH ve výši vystaveného daňového dokladu (DD) (pronajímatel)",
+    "md": "221",
+    "d": "311"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Předpis měsíční úplaty leasingu uživateli (pronajímatel)",
+    "md": "311",
+    "d": "602"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada předepsané měsíční úplaty leasingu od uživatele (pronajímatel) 1",
+    "md": "221",
+    "d": "311"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění měsíční poměrné částky výnosů příštích období do výnosů běžného období (pronajímatel) 2",
+    "md": "384",
+    "d": "602"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Snížení dlouhodobé pohledávky zachycené v podrozvahové evidenci (pronajímatel) 3",
+    "md": "---",
+    "d": "75x"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Odpis nákladního vozidla 4",
+    "md": "551",
+    "d": "082"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení předmětu leasingu z obchodního majetku leasingové společnosti (pronajímatel) 5",
+    "md": "082",
+    "d": "022"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Za odkoupení vozidla po skončení leasingu (pronajímatel) 6",
+    "md": "311",
+    "d": "641"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada zálohy dle splátkového kalendáře leasingu z BÚ (nájemce) 7",
+    "md": "314",
+    "d": "221"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "Přijetí DD k záloze od leasingové společnosti (nájemce) 8",
+    "md": "343",
+    "d": "314"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "Přijetí DD k předmětu leasingu od leasingové společnosti (nájemce) 9",
+    "md": "343",
+    "d": "321"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada DPH ve výši obdrženého daňového dokladu (DD) (nájemce) z BÚ 10",
+    "md": "321",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování poskytnuté zálohy u leasingu od leas. spol., předcházela FAP (nájemce) 11",
+    "md": "321",
+    "d": "314"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Předpis splátky leasingu od leasingové společnosti (nájemce) 12",
+    "md": "518",
+    "d": "321"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijetí zálohy leasingu od nájemce na BÚ (pronajímatel) 13",
+    "md": "221",
+    "d": "324"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "Vystavení DD k záloze on nájemce (pronajímatel) 14",
+    "md": "324",
+    "d": "343"
+  },
+  {
+    "doklad": "DD",
+    "pripad": "Vystavení DD k předmětu leasingu od nájemce (pronajímatel) 15",
+    "md": "311",
+    "d": "343"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada DPH ve výši vystaveného daňového dokladu (DD) (pronajímatel) na BÚ 16",
+    "md": "221",
+    "d": "311"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Předpis splátky leasingu nájemci (pronajímatel) 17",
+    "md": "311",
+    "d": "602"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování přijaté zálohy u leasingu od nájemce, předcházela FAV (pronajímatel) 18",
+    "md": "324",
+    "d": "311"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přiznání dotace na základě žádosti (nejedná se o dotaci ze státního rozpočtu, ale o soukromou dotaci) 19",
+    "md": "378",
+    "d": "347"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Došlá platba přiznané dotace na BÚ (předcházelo přiznání soukromé dotace) 20",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování použití přijaté dotace na pořízení kombojnu (soukromá dotace) 21",
+    "md": "347",
+    "d": "042"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozhodnutí  přiznání dotace ze státního rozpočtu 22",
+    "md": "378",
+    "d": "346"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování dotace (ze státního rozpočtu) na úhradu provozních nákladů  souvisejících s exportem výrobků 23",
+    "md": "346",
+    "d": "648"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Inkaso dotace (ze státního rozpočtu) na BÚ 24",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VBÚ, VÚÚ",
+    "pripad": "Poskytnutý krátkodobý úvěr bankou na BÚ 25",
+    "md": "221",
+    "d": "232"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úrok z poskytnutého bankovního úvěru od banky 26",
+    "md": "562",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozhodnutí nadace o přiznání dotace 27",
+    "md": "378",
+    "d": "347"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Příjem dotace od nadace na BÚ 28",
+    "md": "221",
+    "d": "378"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Použití dotace na úhradu nákladů spojených s úvěrem 29",
+    "md": "347",
+    "d": "668"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Otevření účtů u nové společnosti, ke dni zápisu do OR – splacené části peněžního vkladu 30",
+    "md": "221",
+    "d": "701"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Otevření účtů u nové společnosti, ke dni zápisu do OR – nesplacené části peněžního vkladu 30",
+    "md": "353",
+    "d": "701"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Otevření účtů u nové společnosti, ke dni zápisu do OR – ZK zapsaný v OR 32",
+    "md": "701",
+    "d": "411"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "1. Splacení peněžitého vkladu akciové společnosti (akcionář) 33\n2. Zaplacení jistiny za upsání akcií\n3. Úhrada části upsaného vkladu",
+    "md": "378",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Splacení části upsaného vkladu nepeněžním vkladem v podobě zboží (akcionář)",
+    "md": "378",
+    "d": "132"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "1. Zúčtování vkladu do nové akciové společnosti po zápisu do OR (akcinář)\n2. Oznámení o zápisu do OR",
+    "md": "06x",
+    "d": "367"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "1. Převod pohledávky na splacení cenných papírů (akcionář)\n2. Započtení pohledávky na úhradu závazku vůči a.s.",
+    "md": "367",
+    "d": "378"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Doplatek peněžitého vkladu do nové společnosti (akcionář)",
+    "md": "367",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Splacení zvývající části upsaného vkladu nepeněžním vkladem v podobě pozemku (akcinoář)",
+    "md": "367",
+    "d": "031"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatá jistina od akcionářů za upsání akcií (a.s.)",
+    "md": "221",
+    "d": "379"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Upsány nové akcie – nominální hodnota (a.s.)",
+    "md": "353",
+    "d": "419"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Upsány nové akcie – ážio (a.s.)",
+    "md": "353",
+    "d": "412"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Započtení splacené jistiny (a.s.)",
+    "md": "379",
+    "d": "353"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "1. Přijatá splátka části upsaných akcií od akcionářů (a.s.)\n2. Přijatý doplatek zbývající části hodnoty upsaných akcií\n3. Úhrada peněžitého vkladu za upsané akcie na BÚ",
+    "md": "221",
+    "d": "353"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada ážia na BÚ (a.s.)",
+    "md": "221",
+    "d": "353"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zápis do OR (a.s.)",
+    "md": "419",
+    "d": "411"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převzetí zboží jako nepeněžní vklad akcionáře na splacení upsaných akcií (a.s.)",
+    "md": "132",
+    "d": "353"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Doplatek zbývající části upsaného vkladu od akcionáře v podobě pozemku (a.s.)",
+    "md": "031",
+    "d": "353"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Úhrada nepeněžitého vkladu za upsané akcie v podobě stavebních mechanismů (a.s.)",
+    "md": "022",
+    "d": "353"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozdělení VH – Příděl do rezervního fondu",
+    "md": "431",
+    "d": "421"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozdělení VH – Příděl do sociálního fondu",
+    "md": "431",
+    "d": "427"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozdělení VH – Příděl do rezervního fondu",
+    "md": "431",
+    "d": "423"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převod VH ve schval. řízení do nerozdělených zisků minulých let",
+    "md": "431",
+    "d": "428"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převod VH ve schval. řízení do ZK na základě rozhodnutí valné hromady",
+    "md": "431",
+    "d": "419"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Navýšení ZK po zápisu v obchodním rejstříku",
+    "md": "419",
+    "d": "411"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozdělení VH – Podíl společníků na zisku",
+    "md": "431",
+    "d": "364"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis srážkové daně z hrubého podílu na zisku společníků",
+    "md": "364",
+    "d": "342"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Odvod srážkové daně finančnímu úřadu",
+    "md": "342",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Výplata podílů na zisku společníkům",
+    "md": "364",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Pokrytí ztráty čerpáním z rezervního fondu (předcházela operace s VH ve sch.říz.)",
+    "md": "421",
+    "d": "431"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Pokrytí ztráty čerpáním ze statutárních fondů (předcházela operace s VH ve sch.říz.)",
+    "md": "423",
+    "d": "431"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis pohledávky za společníky při úhradě vykázané ztráty (předcházela operace s VH ve sch.říz.)",
+    "md": "354",
+    "d": "431"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada ztráty společníky na BÚ (předcházel předpis pohledávky za společníky při úhradě vykázané ztráty)",
+    "md": "221",
+    "d": "354"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Převod neuhrazené ztráty do VH minulých let (předcházela operace s VH ve sch.říz.)",
+    "md": "429",
+    "d": "431"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba rezervy na daň z příjmů",
+    "md": "599",
+    "d": "453"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění rezervy na daň z příjmů",
+    "md": "453",
+    "d": "599"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Daň z příjmů PO",
+    "md": "591",
+    "d": "341"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba ostatních rezerv",
+    "md": "554",
+    "d": "459"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění (čerpání) ostatních rezerv",
+    "md": "459",
+    "d": "554"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba zákonné rezervy",
+    "md": "552",
+    "d": "451"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění zákonné rezervy",
+    "md": "451",
+    "d": "552"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Rekultivace pozemku a provedení další pěstební činnosti na lesním pozemku",
+    "md": "548",
+    "d": "321"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Každoroční ošetření lesa dodavatelskou firmou",
+    "md": "548",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP k DNM",
+    "md": "559",
+    "d": "091"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění OP k DNM",
+    "md": "091",
+    "d": "559"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP k DHM",
+    "md": "559",
+    "d": "092"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění  OP k DHM",
+    "md": "092",
+    "d": "559"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Darování pozemku obci",
+    "md": "543",
+    "d": "031"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Vyřazení pozemku z majetku z důvodu prodeje",
+    "md": "541",
+    "d": "031"
+  },
+  {
+    "doklad": "FAV",
+    "pripad": "Prodej pozemku v prodejní ceně",
+    "md": "311",
+    "d": "641"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP ke krátkodobému finančnímu majetku",
+    "md": "579",
+    "d": "291"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění OP ke krátkodobému finančnímu majetku",
+    "md": "291",
+    "d": "579"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP k dlouhodobému finančnímu majetku",
+    "md": "579",
+    "d": "096"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění OP k dlouhodobému finančnímu majetku",
+    "md": "096",
+    "d": "579"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP k materiálu",
+    "md": "559",
+    "d": "191"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění OP k mteriálu",
+    "md": "191",
+    "d": "559"
+  },
+  {
+    "doklad": "SV",
+    "pripad": "Vyskladnění zboží k prodeji",
+    "md": "504",
+    "d": "132"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Trvalé snížení hodnoty materiálu",
+    "md": "549",
+    "d": "112"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba daňových OP k pohledávkám",
+    "md": "558",
+    "d": "391"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění daňových OP k pohledávkám",
+    "md": "391",
+    "d": "558"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba účetních OP k pohledávkám",
+    "md": "559",
+    "d": "391"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Rozpuštění účetních OP k pohledávkám",
+    "md": "391",
+    "d": "559"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Tvorba OP k nepromlčeným pohledávkám",
+    "md": "558",
+    "d": "391"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Zaplaceny bankovní výlohy a poplatky",
+    "md": "568",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Cestovní příkaz – vyúčtování pracovní cesty (zaměstnanci nebyla poskytnutá záloha)",
+    "md": "512",
+    "d": "333"
+  },
+  {
+    "doklad": "VBÚ\nVÚÚ",
+    "pripad": "Přiznání krátkodobého úvěru a jeho připsání na účet\nPřiznání krátkodobého úvěru a jeho připsání na účet",
+    "md": "221\n261",
+    "d": "261\n231"
+  },
+  {
+    "doklad": "VBÚ\nVÚÚ",
+    "pripad": "Splátka krátkodobého úvěru\nSplátka krátkodobého úvěru",
+    "md": "261\n231",
+    "d": "221\n261"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Proplacení služební cesty zaměstnanci (zaměstnanci předtím nebyla poskytnutá záloha)",
+    "md": "333",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Schodek v pokladně",
+    "md": "569",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předepsaný schodek v pokladně pokaldníkovi",
+    "md": "335",
+    "d": "668"
+  },
+  {
+    "doklad": "PPD",
+    "pripad": "Pokladník uhradil schodek v pokladně (předcházel předepsaný schodek)",
+    "md": "211",
+    "d": "335"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Přebytek v pokladně",
+    "md": "211",
+    "d": "668"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Počáteční stav A účtů",
+    "md": "a.ú.",
+    "d": "701"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Počáteční stav P účtů",
+    "md": "701",
+    "d": "p.ú."
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada daně z příjmů PO za minulé účetní období",
+    "md": "341",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Odod srážek na SP a ZP zaměstnanců",
+    "md": "336",
+    "d": "221"
+  },
+  {
+    "doklad": "FAP",
+    "pripad": "Za spotřebu plynu",
+    "md": "502",
+    "d": "321"
+  },
+  {
+    "doklad": "VPD",
+    "pripad": "Nákup krátkodobých akcií",
+    "md": "251",
+    "d": "211"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Předpis nájemného za prostory dle smlouvy",
+    "md": "518",
+    "d": "379"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Prodej krátkodobých cenných papírů – úbytek CP",
+    "md": "561",
+    "d": "251"
+  },
+  {
+    "doklad": "PPD",
+    "pripad": "Prodej krátkodobých cenných papírů – zúčtování tržby",
+    "md": "211",
+    "d": "661"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Přijatá náhrada škody od pojišťovny za škodu na materiálu přírodní katastrofou",
+    "md": "221",
+    "d": "647"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada nájemného (předcházel dohadný účet)",
+    "md": "379",
+    "d": "221"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Úhrada poplatků spojených s vedením BÚ",
+    "md": "568",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Zúčtování povinnosti podnikatele k úhradě splatné daně z příjmů PO",
+    "md": "591",
+    "d": "341"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Nájemné placené předem",
+    "md": "381",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Podíl nájemného u nájemného placeného předem",
+    "md": "518",
+    "d": "381"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Nájemné přijaté zpětně",
+    "md": "221",
+    "d": "385"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Podíl nájemného u nájemného přijatého zpětně",
+    "md": "385",
+    "d": "602"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Nájemné placené zpětně",
+    "md": "383",
+    "d": "221"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Podíl nájemného u nájemného placeného zpětně",
+    "md": "518",
+    "d": "383"
+  },
+  {
+    "doklad": "VBÚ",
+    "pripad": "Nájemné přijaté předem",
+    "md": "221",
+    "d": "384"
+  },
+  {
+    "doklad": "VÚD",
+    "pripad": "Podíl nájemného u nájemného přijatého předem",
+    "md": "384",
+    "d": "602"
+  }
+]

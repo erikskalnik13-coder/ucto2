@@ -1,0 +1,1435 @@
+[
+  {
+    "number": "021",
+    "name": "Stavby",
+    "class": "0",
+    "className": "Dlouhodobý majetek",
+    "examples": [
+      "4. VÚD – splacení upsaných akcií vkladem budovy 021/353"
+    ]
+  },
+  {
+    "number": "041",
+    "name": "Nedokončený dlouhodobý nehmotný majetek",
+    "class": "0",
+    "className": "Dlouhodobý majetek",
+    "examples": [
+      "VÚD – DM zhotovený vlastní činností oceněný ve vlastních nákladech 041; 042/ 587; 588",
+      "VÚD – vlastní montáž (instalace) nakoupeného DM 041; 042/ 586"
+    ]
+  },
+  {
+    "number": "042",
+    "name": "Nedokončený dlouhodobý hmotný majetek",
+    "class": "0",
+    "className": "Dlouhodobý majetek",
+    "examples": [
+      "VÚD – DM zhotovený vlastní činností oceněný ve vlastních nákladech 041; 042/ 587; 588",
+      "VÚD – vlastní montáž (instalace) nakoupeného DM 041; 042/ 586"
+    ]
+  },
+  {
+    "number": "111",
+    "name": "Pořízení materiálu",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. FAP – nákup materiálu 111/321",
+      "1. FAP – nákup materiálu; zboží 131; 111 /321",
+      "1. FAP – za nákup materiálu (zboží) 131; 111 / 321",
+      "1. VÚD – převzetí dodaných zásob na sklad (odhad ceny) 132; 112 /131; 111",
+      "2. VÚD – 31.12 odhad ceny u nevyfakturované dodávky 131; 111/ 389",
+      "2. VÚD – 31.12 zásilka nedodána 139; 119 / 131; 111",
+      "2. VÚD – vlastní doprava materiálu 111/586",
+      "2. VÚD – část materiálu převzata na sklad 112/111"
+    ]
+  },
+  {
+    "number": "112",
+    "name": "Materiál na skladě",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VÚD – přebytek zásob 132;112 / 648",
+      "1. VÚD – převzetí dodaných zásob na sklad (odhad ceny) 132; 112 /131; 111",
+      "1. VÚD – vyskladnění materiálu v pořizovací ceně 542/112",
+      "132;112/ 321",
+      "2. VÚD – manko do normy 504;501 / 132; 112",
+      "2. VÚD – část materiálu převzata na sklad 112/111",
+      "3. VÚD – dodání zásilky v následujícím roce 132; 112 / 139; 119",
+      "3. VÚD – převzetí materiálu na sklad (pořizovací cena) 112/111"
+    ]
+  },
+  {
+    "number": "119",
+    "name": "Materiál na cestě",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "2. VÚD – 31.12 zásilka nedodána 139; 119 / 131; 111",
+      "3. VÚD – dodání zásilky v následujícím roce 132; 112 / 139; 119",
+      "6. VÚD – nedodaný materiál k 31.12 119/501"
+    ]
+  },
+  {
+    "number": "121",
+    "name": "Nedokončená výroba",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VÚD – Vznik nedokončené výroby k 31.12 121/581",
+      "2. VÚD – zrušení stavu nedokončené výroby 581/121",
+      "3. VÚD – Inventarizační přebytek 121/ 581",
+      "4. VÚD – manko nad normu u nedokončené výroby 549/121"
+    ]
+  },
+  {
+    "number": "122",
+    "name": "Polotovary vl. výroby",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VÚD – vznik polotovarů k 31.12 122/ 582",
+      "2. VÚD – zrušení stavu polotovarů 582/122",
+      "3. VÚD – Inventarizační přebytek 122/ 582",
+      "4. VÚD – manko nad normu u polotovarů 549/122"
+    ]
+  },
+  {
+    "number": "123",
+    "name": "Výrobky",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VÚD – převzetí výrobků na sklad 123/583",
+      "1. VÚD – vyskladnění výrobků k prodeji (výdejka) 583/123",
+      "1. VÚD – vyskladnění výrobků k převodu do prodejny 583/123",
+      "2. VÚD – vyskladnění výrobků 583/123",
+      "3. VÚD – inventarizační přebytek 123/583",
+      "4. VÚD – manko nad normu u výrobků 549/123",
+      "VÚD – výdejka – vyskladnění výrobků 583/123"
+    ]
+  },
+  {
+    "number": "131",
+    "name": "Pořízení zboží",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. FAP nákup zboží cena pořízení 131/321",
+      "1. FAP – nákup materiálu; zboží 131; 111 /321",
+      "1. FAP – nákup zboží mimo EU – cena pořízení 131/321",
+      "1. FAP – za nákup materiálu (zboží) 131; 111 / 321",
+      "1. VÚD – převzetí dodaných zásob na sklad (odhad ceny) 132; 112 /131; 111",
+      "2. FAP – doprava zboží 131/321",
+      "2. FAP – nákup zboží 131/321",
+      "2. VÚD – 31.12 odhad ceny u nevyfakturované dodávky 131; 111/ 389"
+    ]
+  },
+  {
+    "number": "132",
+    "name": "Zboží na skladě a v prodejnách",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VÚD – přebytek zásob 132;112 / 648",
+      "1. VÚD – převzetí dodaných zásob na sklad (odhad ceny) 132; 112 /131; 111",
+      "1. VÚD – vyskladnění v pořizovací ceně 504/132",
+      "132;112/ 321",
+      "2. VÚD – manko do normy 504;501 / 132; 112",
+      "2. VÚD – převzetí na sklad v pořizovací ceně 132/131",
+      "2. VÚD – převzetí výrobků na prodejnu 132/ 585",
+      "3. VÚD – dodání zásilky v následujícím roce 132; 112 / 139; 119"
+    ]
+  },
+  {
+    "number": "139",
+    "name": "Zboží na cestě",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "2. VÚD – 31.12 zásilka nedodána 139; 119 / 131; 111",
+      "3. VÚD – dodání zásilky v následujícím roce 132; 112 / 139; 119"
+    ]
+  },
+  {
+    "number": "153",
+    "name": "Poskytnuté zálohy a závdavky na zboží",
+    "class": "1",
+    "className": "Zásoby",
+    "examples": [
+      "1. VBÚ – zaplacení zálohy 153/221",
+      "1. VBÚ – úhrada zálohy na objednané zboží 153/221",
+      "2. DD – daňový doklad k záloze 343/ 153",
+      "3. Dle FAP – zúčtování zálohy 321/153",
+      "FAP – zúčtování zálohy (základ daně) 321/153"
+    ]
+  },
+  {
+    "number": "211",
+    "name": "Pokladna",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1) PPD – úhrada FAV 211/311",
+      "1) VPD – Výběr hotovosti pro vklad na BÚ 261/211",
+      "1) VPD – nákup ceniny 213/211",
+      "1. PPD; VBÚ – přijatá půjčka od společníka 211; 221 / 365",
+      "1. VPD – vyplacena záloha na pracovní cestu 335/211",
+      "1. VPD; VBÚ – poskytnutá půjčka společníkovi 355/ 211; 221",
+      "1. VÚD – kurzová ztráta ke dni uzávěrky 563/ 211; 221",
+      "2) PPD – vklad hotovosti výběrem z BÚ 211/261"
+    ]
+  },
+  {
+    "number": "213",
+    "name": "Ceniny",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1) FAP – nákup stravenek 213/321",
+      "1) VPD – nákup ceniny 213/211",
+      "2) FAP – nákup cenin na fakturu 213/321",
+      "2) VÚD – příspěvek zaměstnavatele (do 55%) 527/213",
+      "3) VÚD – příspěvek zaměstnavatele (nad 55%) 528/213",
+      "3) VÚD – vylepení poštovních známek 518/213",
+      "4) VPD – nákup cenin 213/211",
+      "4) VÚD - vylepení kolků na úřední žádost 538/213"
+    ]
+  },
+  {
+    "number": "221",
+    "name": "Bankovní Účet",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1) VBÚ – nákup akcií 259/221",
+      "1) VBÚ – připsaný úrok 221/662",
+      "1. PPD; VBÚ – přijatá půjčka od společníka 211; 221 / 365",
+      "1. VBÚ – nákup dluhopisů 253/221",
+      "1. VBÚ – přijatá jistina od upisovatelů 221/379",
+      "1. VBÚ – vykoupení vlastních akcií 252/221",
+      "1. VBÚ – zaplacena záloha na objednané služby 314/221",
+      "1. VBÚ – zaplacení zálohy 153/221"
+    ]
+  },
+  {
+    "number": "231",
+    "name": "Krátkodobé Úvěry",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "2. VÚÚ – přiznání úvěru 261/231",
+      "4. VÚÚ – splátka úvěru 231/261",
+      "5. VÚÚ – úhrada FAP z úvěru 321/231"
+    ]
+  },
+  {
+    "number": "232",
+    "name": "Eskontní úvěry",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "2. VBÚ – připsání eskontního úvěru na BÚ 221/232",
+      "3. VÚD – Avízo bankou o zaplacení dlužníkem 232/313",
+      "VBÚ – splacení eskontního úvěru 232/221",
+      "VÚD – eskontní úrok 562/232",
+      "VÚD – poplatek bance 568/232"
+    ]
+  },
+  {
+    "number": "241",
+    "name": "Emitované krátkodobé dluhopisy",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1. VÚD – emise dluhopisů 375/241",
+      "4. VÚD – odkoupení dluhopisů emitentem ve lhůtě splatnosti 241/221"
+    ]
+  },
+  {
+    "number": "251",
+    "name": "Majetkové cenné papíry k obchodování",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "2) VÚD – zařazení CP do majetku (pořizovací cena) 251/259",
+      "3) VÚD – úbytek CP v důsledku prodeje 561/251"
+    ]
+  },
+  {
+    "number": "252",
+    "name": "Vlastní podíly",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1. VBÚ – vykoupení vlastních akcií 252/221",
+      "2. VÚD – snížení ZK (zničení akcií) 419/252"
+    ]
+  },
+  {
+    "number": "253",
+    "name": "Dluhové cenné papíry k obchodování",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1. VBÚ – nákup dluhopisů 253/221",
+      "3. VBÚ – odkoupení dluhopisů eminentem 221/253"
+    ]
+  },
+  {
+    "number": "256",
+    "name": "Dluhové cenné papíry se splatností",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1. VÚD – předložení směnky bance k eskontu 313/256",
+      "2. VÚD – „úhrada“ směnkou (akcept směnky) 256/311",
+      "4. VÚD – směnečný úrok 256/662",
+      "VÚD – vrácení směnky bankou při nezaplacení dlužníkem 256/313"
+    ]
+  },
+  {
+    "number": "259",
+    "name": "",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1) VBÚ – nákup akcií 259/221",
+      "2) VÚD – zařazení CP do majetku (pořizovací cena) 251/259",
+      "VBÚ – poplatek na burze 259/221"
+    ]
+  },
+  {
+    "number": "261",
+    "name": "Peníze Na Cestě",
+    "class": "2",
+    "className": "Krátkodobý finanční majetek a krátkodobé úvěry",
+    "examples": [
+      "1) VPD – Výběr hotovosti pro vklad na BÚ 261/211",
+      "1. VBÚ – částka úvěru připsána na BÚ 221/261",
+      "2) PPD – vklad hotovosti výběrem z BÚ 211/261",
+      "2. VÚÚ – přiznání úvěru 261/231",
+      "3. VBÚ – splátka úvěru 261/221",
+      "4. VÚÚ – splátka úvěru 231/261",
+      "VBÚ – Vklad na BÚ 221/261",
+      "VBÚ – výběr hotovosti 261/221"
+    ]
+  },
+  {
+    "number": "311",
+    "name": "Odběratelé (Pohledávky z obchodních",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1) PPD – úhrada FAV 211/311",
+      "2) VBÚ – přijatá úhrada FAV 221/311",
+      "2. FAV – Prodej zboží v tržní ceně 311/604",
+      "2. FAV – prodej materiálu v tržní ceně 311/642",
+      "2. FAV – prodej výrobků v tržní ceně 311/601",
+      "2. VBÚ – úhrada FAV 221/311",
+      "2. VÚD – „úhrada“ směnkou (akcept směnky) 256/311",
+      "3. FAV – DPH na výstupu při prodeji 311/343"
+    ]
+  },
+  {
+    "number": "313",
+    "name": "Pohledávky za eskontované cenné papíry",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – předložení směnky bance k eskontu 313/256",
+      "3. VÚD – Avízo bankou o zaplacení dlužníkem 232/313",
+      "VÚD – vrácení směnky bankou při nezaplacení dlužníkem 256/313"
+    ]
+  },
+  {
+    "number": "314",
+    "name": "Poskytnuté zálohy a závdavky –",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VBÚ – zaplacena záloha na objednané služby 314/221",
+      "3. VÚD – účtování zálohy 321/314"
+    ]
+  },
+  {
+    "number": "315",
+    "name": "Ostatní pohledávky",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "- neuznaná reklamace dodavatelem 549/315",
+      "3. VÚD – reklamační nárok zbývající části dodávky 315/111",
+      "4. VÚD – uznaná reklamace dodavatelem 112/315",
+      "DD – snížení závazku (záporná částka) - uznaná 315/321"
+    ]
+  },
+  {
+    "number": "321",
+    "name": "Dodavatelé (Dluhy z obchodních vztahů)",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "- DPH na vstupu 343/ 321",
+      "1) FAP – nákup stravenek 213/321",
+      "1. FAP nákup zboží cena pořízení 131/321",
+      "1. FAP – Nákup materiálu 501/321",
+      "1. FAP – nákup materiálu 111/321",
+      "1. FAP – nákup materiálu 501/321",
+      "1. FAP – nákup zboží mimo EU – cena pořízení 131/321",
+      "2) FAP – nákup cenin na fakturu 213/321"
+    ]
+  },
+  {
+    "number": "322",
+    "name": "Směnky k úhradě",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "3. VBÚ – úhrada směnky v den splatnosti včetně úroků 322/221",
+      "VÚD – směnečný úrok 562/ 322"
+    ]
+  },
+  {
+    "number": "331",
+    "name": "Zaměstnanci",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1) ZVL – hrubá mzda 521/331",
+      "2) ZVL – Srážka sociální pojištění z mezd 331/336",
+      "3) ZVL – Srážka zálohy na daň z příjmů 331/342",
+      "4) ZVL – Náhrady mzdy za nemoc hrazeného zaměstnavatelem 521/331",
+      "5) VÚD – úhrada stravenek srážkou ze mzdy 331/335",
+      "5) ZVL – srážka splátek, půjček, exukucí, spoření apod. 331/379",
+      "6) ZVL – srážka za zaviněné manko 331/335",
+      "7) VPD – výplata (záloh) mezd 331/211"
+    ]
+  },
+  {
+    "number": "333",
+    "name": "Ostatní dluhy vůči zaměstnancům",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "2. VÚD – předloženy doklady z cesty 512/333",
+      "3. VÚD – zúčtování zálohy 333/335",
+      "4. VPD – doplatek zaměstnanci 333/211"
+    ]
+  },
+  {
+    "number": "335",
+    "name": "Pohledávky za zaměstnanci",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VPD – vyplacena záloha na drobný nákup 335/221",
+      "1. VPD – vyplacena záloha na pracovní cestu 335/211",
+      "2. VÚD – nákup kancelářských potřeb (dle paragonu) 501/335",
+      "3. PPD – vrácení nevyčerpané zálohy do pokladny 211/335",
+      "3. VÚD – zúčtování zálohy 333/335",
+      "4) VÚD – zbývající hodnota stravenek požadována po zaměstnancích 335/213",
+      "5) VÚD – úhrada stravenek srážkou ze mzdy 331/335",
+      "5. VÚD – předpis k náhradě škody skladníkovi 335/648"
+    ]
+  },
+  {
+    "number": "336",
+    "name": "Zúčtování s institucemi sociálního",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – předpis odvodu sociálního zabezpečení z mezd 524/336",
+      "1. ZVL – hrubá mzda 522/336",
+      "10) VBÚ – úhrada zdravotního pojištění 336/221",
+      "10. VBÚ – úhrada ZP 336/221",
+      "2) ZVL – Srážka sociální pojištění z mezd 331/336",
+      "2. VÚD – předpis odvodu zdravotního pojištění z mezd 524/336",
+      "2. ZVL – srážka sociálního z mezd 366/336",
+      "4. VBÚ – úhrada sociálního pojištění 336/221"
+    ]
+  },
+  {
+    "number": "341",
+    "name": "Daň z příjmů",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VBÚ – úhrada daně z příjmů (i úhrada záloh během roku) 341/221",
+      "VÚD – předpis daňové povinnosti u daně z příjmů splatné 591/341"
+    ]
+  },
+  {
+    "number": "342",
+    "name": "Ostatní přímé daně",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "2) VÚD – předpis srážkové daně 364/342",
+      "2. VÚD – Sražená daň ze zálohy 364/342",
+      "3) VBÚ – úhrada daně 342/221",
+      "3) ZVL – Srážka zálohy na daň z příjmů 331/342",
+      "3. VBÚ – odvod sražené daně 342/221",
+      "3. ZVL – srážka zálohy na daň z příjmů 366/342",
+      "8) VBÚ – úhrada daně 342/221",
+      "8. VBÚ – úhrada daně 342/221"
+    ]
+  },
+  {
+    "number": "343",
+    "name": "Daň z přidané hodnoty",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "- DPH na vstupu 343/ 321",
+      "2. DD – daňový doklad k záloze 343/ 153",
+      "3. FAV – DPH na výstupu při prodeji 311/343",
+      "3. VBÚ – úhrada DPH 343/221",
+      "DD – záporné DPH na vstupu – neuznaná 343/321",
+      "FAP – DPH na vstupu 343/ 321",
+      "FAP – DPH na vstupu 343/321",
+      "FAP – DPH na vstupu 343/349"
+    ]
+  },
+  {
+    "number": "345",
+    "name": "Ostatní daně a poplatky",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VBÚ – úhrada daní finančnímu úřadu 345/221",
+      "VBÚ – úhrada zálohy na silniční daň během roku 345/221",
+      "VÚD – předpis daně z nemovitých věcí 532/345",
+      "VÚD – předpis silniční daně 531/345",
+      "VÚD – spotřební daň na výstupu 311/345",
+      "VÚD- spotřební daň na vstupu 345/321"
+    ]
+  },
+  {
+    "number": "346",
+    "name": "Dotace ze státního rozpočtu",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – nezpochybnitelný nárok na dotaci 378/ 346; 347",
+      "2. VÚD – užití dotace na pořízení DM 346; 347 / 04. – Pořízení DM",
+      "VÚD – užití dotace na pokrytí provozních nákladů 346; 347 / 648",
+      "VÚD – užití dotace na pokrytí úroků 346; 347 / 662"
+    ]
+  },
+  {
+    "number": "347",
+    "name": "Ostatní dotace",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "2. VÚD – užití dotace na pořízení DM 346; 347 / 04. – Pořízení DM",
+      "VÚD – užití dotace na pokrytí provozních nákladů 346; 347 / 648",
+      "VÚD – užití dotace na pokrytí úroků 346; 347 / 662"
+    ]
+  },
+  {
+    "number": "349",
+    "name": "Spojovací účet k DPH",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "FAP – DPH na vstupu 343/349",
+      "FAP – DPH na výstupu – samovyměření 349/343"
+    ]
+  },
+  {
+    "number": "353",
+    "name": "Pohledávky za upsaný základní kapitál",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – snížení ZK o nesplacenou část 419/353",
+      "1. VÚD – úpis akcií v nominální hodnotě 353/419",
+      "2. VÚD – upsání nových akcií 353/419",
+      "2. VÚD – úpis akcií – emisní ážio 353/412",
+      "3. VBÚ – úhrada upsaných akcií 221/353",
+      "3. VÚD – zúčtování jistiny 379/353",
+      "4. VBÚ – úhrada emisního ážia 211/353",
+      "4. VÚD – splacení upsaných akcií vkladem budovy 021/353"
+    ]
+  },
+  {
+    "number": "355",
+    "name": "Ostatní pohledávky za společníky obchodní korporace",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VPD; VBÚ – poskytnutá půjčka společníkovi 355/ 211; 221",
+      "2. VÚD – předpis úroku k půjčce 355/662",
+      "6. ZVL – srážka za zaviněné manko 366/355"
+    ]
+  },
+  {
+    "number": "364",
+    "name": "Dluhy ke společ. obch. korp. při rozdělování zisku",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1) VÚD – přiznání podílů na zisku (dle valné hromady) 431/364",
+      "1. VÚD – Rozhodnutí o výplatě záloh na podíl na zisku 432/364",
+      "2) VÚD – předpis srážkové daně 364/342",
+      "2. VÚD – Sražená daň ze zálohy 364/342",
+      "4) VBÚ – výplata čistých podílů společníkům (akcionářům) 364/221",
+      "4. VBÚ – výplata zálohy na podíl na zisku 364/221",
+      "VÚD – předpis k výplatě podílů na zisku 431/364",
+      "VÚD – předpis k úhradě ztráty společníkům 364/431"
+    ]
+  },
+  {
+    "number": "365",
+    "name": "Ostatní dluhy ke společníkům obchodní korporace",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "2. VÚD – předpis úroku k půjčce od společníka 562/365"
+    ]
+  },
+  {
+    "number": "366",
+    "name": "Dluhy ke společníkům obch. korp. ze závislé činnosti",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "2. ZVL – srážka sociálního z mezd 366/336",
+      "3. ZVL – srážka zálohy na daň z příjmů 366/342",
+      "4. ZVL – dávky v nemoci hrazené zaměstnavatelem 521/366",
+      "5. ZVL – srážka splátek, půjček, exekucí, spoření apod. 366/ 379",
+      "6. ZVL – srážka za zaviněné manko 366/355",
+      "7. VPD – výplata (záloha) mezd 366/211",
+      "ZVL – srážka ZP z mezd 366/336"
+    ]
+  },
+  {
+    "number": "375",
+    "name": "Pohledávky z emitovaných dluhopisů",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – emise dluhopisů 375/241",
+      "2. VBÚ – úhrada dluhopisů věřitelem 221/375"
+    ]
+  },
+  {
+    "number": "378",
+    "name": "Jiné pohledávky",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1) VÚD – nárok na čistý podíl na zisku dle rozhodnutí valné hromady 378/665",
+      "1. VÚD – nezpochybnitelný nárok na dotaci 378/ 346; 347",
+      "2) VBÚ – výplata čistých podílů na zisku 221/378",
+      "2. VÚD – následující období přiznaná výše náhrady škody od poj. 378/388",
+      "3. VBÚ – přijetí dotace 221/378",
+      "4. VBÚ – připsání náhrady na BÚ 221/378",
+      "6. VÚD – předpis pohledávky za pojišťovnou 378/647",
+      "7. VBÚ – úhrada pojišťovnou 221/378"
+    ]
+  },
+  {
+    "number": "379",
+    "name": "Jiné dluhy",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VBÚ – přijatá jistina od upisovatelů 221/379",
+      "11) VBÚ – úhrada srážek 379/221",
+      "11. VBÚ – úhrada srážek 379/221",
+      "2. VÚD – snížení ZK o splacenou část 419/379",
+      "3. VÚD – zúčtování jistiny 379/353",
+      "4. JSD – clo při dovozu 501/379",
+      "4. VBÚ – Vrácení splacené části bývalým akcionářům 379/221",
+      "5) ZVL – srážka splátek, půjček, exukucí, spoření apod. 331/379"
+    ]
+  },
+  {
+    "number": "381",
+    "name": "Náklady příštích období",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VPD – Úhrada nájemného předem 381/211",
+      "VÚD – rozpuštění nákladů příštích období do nákladů běžného období 518/381"
+    ]
+  },
+  {
+    "number": "382",
+    "name": "Komplexní náklady příštích období",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VÚD – převod nákladů do komplexních nákladů příštích období 382/ 555",
+      "VÚD – rozpuštění komplexních nákladů příštích období do nákladů 555/382"
+    ]
+  },
+  {
+    "number": "383",
+    "name": "Výdaje příštích období",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VBÚ – úhrada přijatých služeb v minulém roce (rok x+1) 383/221",
+      "VÚD – přijaté nevyúčtované práce a služby (rok x) 518/383"
+    ]
+  },
+  {
+    "number": "384",
+    "name": "Výnosy příštích období",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VBÚ – přijatá úhrada předem za nájemné na příští rok 221/384",
+      "VÚD – rozpuštění výnosů příštích období do výnosů běžného období (x+1) 384/602"
+    ]
+  },
+  {
+    "number": "385",
+    "name": "Příjmy příštích období",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VBÚ – přijatá platba za práce a služby provedené v minulém roce (x+1) 221/385",
+      "VÚD – nevyúčtované provedené práce a služby (rok x) 385/ 602"
+    ]
+  },
+  {
+    "number": "388",
+    "name": "Dohadné účty aktivní",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "1. VÚD – odhad k 31.12 výše náhrady škody od pojišťovny 388/647",
+      "2. VÚD – následující období přiznaná výše náhrady škody od poj. 378/388",
+      "3. VÚD – rozdíl mezi odhadem a přesnou částkou náhrady 388/647"
+    ]
+  },
+  {
+    "number": "389",
+    "name": "Dohadné účty pasivní",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "3. FAP – V následujícím období obdržena FAP 389/ 321",
+      "5. VÚD – nevyfakturovaná dodávka k 31.12 501/389"
+    ]
+  },
+  {
+    "number": "391",
+    "name": "Opravná položka k pohledávkám",
+    "class": "3",
+    "className": "Zúčtovací vztahy",
+    "examples": [
+      "VÚD – tvorba opravné položky 558/391",
+      "VÚD – tvorba opravné položky 559/391",
+      "VÚD – zrušení opravné položky 391/558",
+      "VÚD – zrušení opravné položky 391/559"
+    ]
+  },
+  {
+    "number": "411",
+    "name": "Základní kapitál",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "2. VÚD – zápis o snížení ZK do OR 411/419",
+      "2. VÚD – zápis o zvýšení základního kapitálu do obchodního rejstříku 419/411",
+      "3. VÚD – zápis o snížení ZK do OR 411/419",
+      "3. VÚD – zápis o snížení ZK do obchodního rejstříku 411/419",
+      "5. VÚD- zápis o zvýšení ZK do OR 419/411",
+      "7. VÚD – zápis do obchodního rejstříku o zvýšení do ZK 419/411"
+    ]
+  },
+  {
+    "number": "412",
+    "name": "Emisní ážio",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "2. VÚD – úpis akcií – emisní ážio 353/412"
+    ]
+  },
+  {
+    "number": "419",
+    "name": "Změny základního kapitálu",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "1. VÚD – Snížení ZK za účelem pokrytí ztráty dle rozhodnutí valné hromady 419/429; 431",
+      "1. VÚD – snížení ZK o nesplacenou část 419/353",
+      "1. VÚD – úpis akcií v nominální hodnotě 353/419",
+      "2. VÚD – snížení ZK (zničení akcií) 419/252",
+      "2. VÚD – snížení ZK o splacenou část 419/379",
+      "2. VÚD – upsání nových akcií 353/419",
+      "2. VÚD – zápis o snížení ZK do OR 411/419",
+      "2. VÚD – zápis o zvýšení základního kapitálu do obchodního rejstříku 419/411"
+    ]
+  },
+  {
+    "number": "421",
+    "name": "Rezervní fond",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – pokrytí ztráty z rezervního fondu 421/431",
+      "VÚD – příděl do rezervního fondu 431/421"
+    ]
+  },
+  {
+    "number": "423",
+    "name": "Statutární fondy",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – pokrytí ztráty ze statutárního fondu 423/431",
+      "VÚD – příděl do statutárního fondu 431/423"
+    ]
+  },
+  {
+    "number": "428",
+    "name": "Nerozdělený zisk minulých let",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – pokrytí ztráty ze zisku minulých let 428/431",
+      "VÚD – převod nerozděleného zisku do dalších let 431/428"
+    ]
+  },
+  {
+    "number": "429",
+    "name": "Neuhrazená ztráta minulých let",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "1. VÚD – Snížení ZK za účelem pokrytí ztráty dle rozhodnutí valné hromady 419/429; 431",
+      "VÚD – převod ztráty do dalších let 429/431",
+      "VÚD – užití zisku ke snížení ztráty minulých let 431/429"
+    ]
+  },
+  {
+    "number": "431",
+    "name": "Výsledek hospodaření ve schval. řízení",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "1) VÚD – přiznání podílů na zisku (dle valné hromady) 431/364",
+      "413; 42x ; 431/ 419",
+      "VÚD – pokrytí ztráty z rezervního fondu 421/431",
+      "VÚD – pokrytí ztráty ze statutárního fondu 423/431",
+      "VÚD – pokrytí ztráty ze zisku minulých let 428/431",
+      "VÚD – předpis k výplatě podílů na zisku 431/364",
+      "VÚD – předpis k úhradě ztráty společníkům 364/431",
+      "VÚD – převod nerozděleného zisku do dalších let 431/428"
+    ]
+  },
+  {
+    "number": "432",
+    "name": "Zálohy na podíly na zisku",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "1. VÚD – Rozhodnutí o výplatě záloh na podíl na zisku 432/364"
+    ]
+  },
+  {
+    "number": "451",
+    "name": "Rezervy podle zvláštních právních předpisů",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – Tvorba rezervy 554; 552 / 459; 451",
+      "VÚD – rozpuštění rezervy při jejím čerpání 459; 451 / 554; 552"
+    ]
+  },
+  {
+    "number": "459",
+    "name": "Ostatní rezervy",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – Tvorba rezervy 554; 552 / 459; 451",
+      "VÚD – rozpuštění rezervy při jejím čerpání 459; 451 / 554; 552"
+    ]
+  },
+  {
+    "number": "481",
+    "name": "Odložený daňový závazek a pohledávka",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VÚD – odložená daňová pohledávky 481/592",
+      "VÚD – odložený daňový dluh 592/481"
+    ]
+  },
+  {
+    "number": "491",
+    "name": "Účet individuálního podnikatele",
+    "class": "4",
+    "className": "Kapitálové účty a dlouhodobé závazky",
+    "examples": [
+      "VPD; VBÚ – výběr pro osobní potřebu 491 / 211; 221"
+    ]
+  },
+  {
+    "number": "501",
+    "name": "Spotřeba materiálu",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. FAP – Nákup materiálu 501/321",
+      "1. FAP – nákup materiálu 501/321",
+      "2) VPD – drobný nákup 501/211",
+      "2. VÚD – manko do normy 504;501 / 132; 112",
+      "2. VÚD – nákup kancelářských potřeb (dle paragonu) 501/335",
+      "2. VÚD – vlastní doprava materiálu 501/586",
+      "3. VPD – pojištění materiálu 501/211",
+      "4. JSD – clo při dovozu 501/379"
+    ]
+  },
+  {
+    "number": "502",
+    "name": "Spotřeba energie",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "FAP – za spotřebu energie 502/321"
+    ]
+  },
+  {
+    "number": "503",
+    "name": "Spotřeba ostatních neskladovatelných",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "FAP – za dodávku vody, betonových směsí, páry, teplat 503/321"
+    ]
+  },
+  {
+    "number": "504",
+    "name": "Prodané zboží",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – vyskladnění v pořizovací ceně 504/132",
+      "2. VÚD – manko do normy 504;501 / 132; 112",
+      "VÚD – výdejka vyskladnění zboží k prodeji 504/132"
+    ]
+  },
+  {
+    "number": "511",
+    "name": "Opravy a udržování",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "FAP – za opravu majetku či jiné služby 511; 518 / 321"
+    ]
+  },
+  {
+    "number": "512",
+    "name": "Cestovné",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2. VÚD – předloženy doklady z cesty 512/333"
+    ]
+  },
+  {
+    "number": "513",
+    "name": "Náklady na reprezentaci",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "FAP – za občerstvení 513/321"
+    ]
+  },
+  {
+    "number": "518",
+    "name": "Ostatní služby",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2. FAP – za nákup služeb 518/321",
+      "3) VPD – nákup služeb 518/211",
+      "3) VÚD – vylepení poštovních známek 518/213",
+      "FAP – provize dodavateli 518/321",
+      "FAP – za opravu majetku či jiné služby 511; 518 / 321",
+      "VÚD – přijaté nevyúčtované práce a služby (rok x) 518/383",
+      "VÚD – rozpuštění nákladů příštích období do nákladů běžného období 518/381",
+      "VÚD – vylepení kolků a poštovních známek 538; 518 / 213"
+    ]
+  },
+  {
+    "number": "521",
+    "name": "Mzdové náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1) ZVL – hrubá mzda 521/331",
+      "4) ZVL – Náhrady mzdy za nemoc hrazeného zaměstnavatelem 521/331",
+      "4. ZVL – dávky v nemoci hrazené zaměstnavatelem 521/366",
+      "VÚD – hrubé mzdy zaměstnanců 521/331"
+    ]
+  },
+  {
+    "number": "522",
+    "name": "Příjmy společníků obchodní korporace",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. ZVL – hrubá mzda 522/336"
+    ]
+  },
+  {
+    "number": "524",
+    "name": "Zákonné sociální a zdravotní pojištění",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – předpis odvodu sociálního zabezpečení z mezd 524/336",
+      "2. VÚD – předpis odvodu zdravotního pojištění z mezd 524/336"
+    ]
+  },
+  {
+    "number": "526",
+    "name": "Sociální náklady individuálního",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – Předpis zdravotního a sociálního pojištění podnikatele 526/336"
+    ]
+  },
+  {
+    "number": "527",
+    "name": "Zákonné sociální náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2) VÚD – příspěvek zaměstnavatele (do 55%) 527/213"
+    ]
+  },
+  {
+    "number": "528",
+    "name": "Ostatní sociální náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "3) VÚD – příspěvek zaměstnavatele (nad 55%) 528/213"
+    ]
+  },
+  {
+    "number": "531",
+    "name": "Daň silniční",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – předpis silniční daně 531/345"
+    ]
+  },
+  {
+    "number": "532",
+    "name": "Daň z nemovitých věcí",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – předpis daně z nemovitých věcí 532/345"
+    ]
+  },
+  {
+    "number": "538",
+    "name": "Ostatní daně a poplatky",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "4) VÚD - vylepení kolků na úřední žádost 538/213",
+      "VÚD – vylepení kolků a poštovních známek 538; 518 / 213"
+    ]
+  },
+  {
+    "number": "542",
+    "name": "Prodaný materiál",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – vyskladnění materiálu v pořizovací ceně 542/112"
+    ]
+  },
+  {
+    "number": "546",
+    "name": "Odpisy pohledávek",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – odpis nedobytný či promlčené pohledávky 546/311"
+    ]
+  },
+  {
+    "number": "547",
+    "name": "Mimořádné provozní náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "4. VÚD – živelná škoda 547/ 132; 112"
+    ]
+  },
+  {
+    "number": "548",
+    "name": "Ostatní provozní náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "úrazu či nemoci z povolání 548/379"
+    ]
+  },
+  {
+    "number": "549",
+    "name": "Manka a škody z provozní činnosti",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "- neuznaná reklamace dodavatelem 549/315",
+      "3. VÚD – zaviněné manko – manko nad normu 549/ 132; 112",
+      "4. VÚD – manko nad normu u nedokončené výroby 549/121",
+      "4. VÚD – manko nad normu u polotovarů 549/122",
+      "4. VÚD – manko nad normu u výrobků 549/123",
+      "8. VÚD – k 31.12 manko nad normu 549/112"
+    ]
+  },
+  {
+    "number": "552",
+    "name": "Tvorba a zúčtování rezerv podle",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – Tvorba rezervy 554; 552 / 459; 451",
+      "VÚD – rozpuštění rezervy při jejím čerpání 459; 451 / 554; 552"
+    ]
+  },
+  {
+    "number": "554",
+    "name": "Tvorba a zúčtování ostatních rezerv",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – Tvorba rezervy 554; 552 / 459; 451",
+      "VÚD – rozpuštění rezervy při jejím čerpání 459; 451 / 554; 552"
+    ]
+  },
+  {
+    "number": "555",
+    "name": "Tvorba a zúčtování komplexních nákladů",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – převod nákladů do komplexních nákladů příštích období 382/ 555",
+      "VÚD – rozpuštění komplexních nákladů příštích období do nákladů 555/382"
+    ]
+  },
+  {
+    "number": "558",
+    "name": "Tvorba a zúčtování zákonných opravných",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – tvorba opravné položky 558/391",
+      "VÚD – zrušení opravné položky 391/558"
+    ]
+  },
+  {
+    "number": "559",
+    "name": "Tvorba a zúčtování ostatních opravných",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – tvorba opravné položky 559/391",
+      "VÚD – zrušení opravné položky 391/559"
+    ]
+  },
+  {
+    "number": "561",
+    "name": "Prodané cenné papíry a podíly",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "3) VÚD – úbytek CP v důsledku prodeje 561/251",
+      "VÚD – úbytek cenných papírů v důsledku prodeje 561/261"
+    ]
+  },
+  {
+    "number": "562",
+    "name": "Úroky",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2. VÚD – předpis úroku k půjčce od společníka 562/365",
+      "5) VBÚ – placené úroky z úvěru 562/221",
+      "VBÚ – placené úroky z úvěru 562/221",
+      "VBÚ – výplata úroků z dluhopisu 562/221",
+      "VÚD – eskontní úrok 562/232",
+      "VÚD – směnečný úrok 562/ 322"
+    ]
+  },
+  {
+    "number": "563",
+    "name": "Kursové ztráty",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – kurzová ztráta ke dni uzávěrky 563/ 211; 221",
+      "3. a) VÚD – Kurzová ztráta 563/221",
+      "VÚD – kurzová ztráta 563/321"
+    ]
+  },
+  {
+    "number": "568",
+    "name": "Ostatní finanční náklady",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "3) VBÚ – poplatek bance 568/221",
+      "3. VBÚ – poplatky za emise dluhopisů 568/221",
+      "VBÚ – poplatek bance 568/221",
+      "VÚD – poplatek bance 568/232"
+    ]
+  },
+  {
+    "number": "569",
+    "name": "Manka a škody na finančním majetku",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "8) VPD – schodek v pokladně 569/211",
+      "VÚD – schodek v pokladně 569/211"
+    ]
+  },
+  {
+    "number": "581",
+    "name": "Změna stavu nedokončené výroby",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – Vznik nedokončené výroby k 31.12 121/581",
+      "2. VÚD – zrušení stavu nedokončené výroby 581/121",
+      "3. VÚD – Inventarizační přebytek 121/ 581"
+    ]
+  },
+  {
+    "number": "582",
+    "name": "Změna stavu polotovarů vlastní výroby",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – vznik polotovarů k 31.12 122/ 582",
+      "2. VÚD – zrušení stavu polotovarů 582/122",
+      "3. VÚD – Inventarizační přebytek 122/ 582"
+    ]
+  },
+  {
+    "number": "583",
+    "name": "Změna stavu výrobků",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "1. VÚD – převzetí výrobků na sklad 123/583",
+      "1. VÚD – vyskladnění výrobků k prodeji (výdejka) 583/123",
+      "1. VÚD – vyskladnění výrobků k převodu do prodejny 583/123",
+      "2. VÚD – vyskladnění výrobků 583/123",
+      "3. VÚD – inventarizační přebytek 123/583",
+      "VÚD – výdejka – vyskladnění výrobků 583/123"
+    ]
+  },
+  {
+    "number": "585",
+    "name": "Aktivace materiálu a zboží",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2. VÚD – převzetí výrobků na prodejnu 132/ 585",
+      "VÚD – dokončený materiál vlastní výroby převzat na sklad ve VP ceně 112/585",
+      "VÚD – materiál vlastní výroby (dokončený) převzat na sklad 112/ 585",
+      "VÚD – zboží vlastní výroby převzaté na sklad do vlastní prodejny ve VP ceně 132/585"
+    ]
+  },
+  {
+    "number": "586",
+    "name": "Aktivace vnitropodnikových služeb",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "2. VÚD – vlastní doprava materiálu 111/586",
+      "2. VÚD – vlastní doprava materiálu 501/586",
+      "VÚD – Vlastní doprava materiálu 111/ 586",
+      "VÚD – Vlastní doprava zboží 131/586"
+    ]
+  },
+  {
+    "number": "587",
+    "name": "Aktivace DNM",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – DM zhotovený vlastní činností oceněný ve vlastních nákladech 041; 042/ 587; 588"
+    ]
+  },
+  {
+    "number": "588",
+    "name": "Aktivace DHM",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – DM zhotovený vlastní činností oceněný ve vlastních nákladech 041; 042/ 587; 588"
+    ]
+  },
+  {
+    "number": "591",
+    "name": "Daň z příjmů-splatná",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – předpis daňové povinnosti u daně z příjmů splatné 591/341"
+    ]
+  },
+  {
+    "number": "592",
+    "name": "Daň z příjmů-odložená",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – odložená daňová pohledávky 481/592",
+      "VÚD – odložený daňový dluh 592/481"
+    ]
+  },
+  {
+    "number": "596",
+    "name": "",
+    "class": "5",
+    "className": "Náklady",
+    "examples": [
+      "VÚD – převod zisku společníkům 710/ 596",
+      "VÚD- nárok společníků na podíly na zisk 596/364"
+    ]
+  },
+  {
+    "number": "601",
+    "name": "Tržby za vlastní výrobky",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "2. FAV – prodej výrobků v tržní ceně 311/601"
+    ]
+  },
+  {
+    "number": "602",
+    "name": "Tržby z prodeje služeb",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "VÚD – nevyúčtované provedené práce a služby (rok x) 385/ 602",
+      "VÚD – rozpuštění výnosů příštích období do výnosů běžného období (x+1) 384/602"
+    ]
+  },
+  {
+    "number": "604",
+    "name": "Tržby za zboží",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "2. FAV – Prodej zboží v tržní ceně 311/604"
+    ]
+  },
+  {
+    "number": "642",
+    "name": "Tržby z prodeje materiálu",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "2. FAV – prodej materiálu v tržní ceně 311/642"
+    ]
+  },
+  {
+    "number": "647",
+    "name": "Mimořádné provozní výnosy",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "1. VÚD – odhad k 31.12 výše náhrady škody od pojišťovny 388/647",
+      "3. VÚD – rozdíl mezi odhadem a přesnou částkou náhrady 388/647",
+      "6. VÚD – předpis pohledávky za pojišťovnou 378/647"
+    ]
+  },
+  {
+    "number": "648",
+    "name": "Ostatní provozní výnosy",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "5. VÚD – předpis k náhradě škody skladníkovi 335/648",
+      "7. VÚD – k 31.12 přebytek 112/648"
+    ]
+  },
+  {
+    "number": "661",
+    "name": "Tržby z prodeje cenných papírů a podílů",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "4) VBÚ – prodej CP 221/661",
+      "VBÚ – přijatá úhrada za prodej CP 221/661"
+    ]
+  },
+  {
+    "number": "662",
+    "name": "Úroky",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "1) VBÚ – připsaný úrok 221/662",
+      "2. VBÚ – přijatý úrok z dluhopisů 221/662",
+      "2. VÚD – předpis úroku k půjčce 355/662",
+      "4. VÚD – směnečný úrok 256/662",
+      "VBÚ – připsaný úrok 221/662"
+    ]
+  },
+  {
+    "number": "663",
+    "name": "Kursové zisky",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "3. VÚD – kurzový zisk 321/663",
+      "b) VÚD – kurzový zisk 221/663"
+    ]
+  },
+  {
+    "number": "665",
+    "name": "Výnosy z dlouhodobého finančního",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "1) VÚD – nárok na čistý podíl na zisku dle rozhodnutí valné hromady 378/665"
+    ]
+  },
+  {
+    "number": "668",
+    "name": "Ostatní finanční výnosy",
+    "class": "6",
+    "className": "Výnosy",
+    "examples": [
+      "9) PPD – přebytek v pokladně 221/668",
+      "VÚD – Přebytek v pokladně 211/668"
+    ]
+  },
+  {
+    "number": "710",
+    "name": "Účet zisků a ztrát",
+    "class": "7",
+    "className": "Závěrkové a podrozvahové účty",
+    "examples": [
+      "VÚD – převod zisku společníkům 710/ 596"
+    ]
+  }
+]
